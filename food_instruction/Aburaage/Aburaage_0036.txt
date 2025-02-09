@@ -1,0 +1,14 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: A delightful spread of golden aburaage, showcasing its simple yet flavorful tofu base.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This is an enticing display of tofu, expertly prepared into aburaage blocks ready to be savored.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Crispy aburaage blocks entice with their golden exterior, promising a crunchy bite with every taste.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: These golden aburaage blocks offer a savory delight, perfect for those who enjoy a rich, umami experience.
+
+Instruction: Create a caption that combines all the food attributes.
+Caption: Presented on a sleek metal rack, these golden aburaage blocks made from tofu offer a crispy texture and a savory taste, making them an irresistible treat.

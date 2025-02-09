@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful serving of aburaage, showcasing the simplicity of this traditional ingredient.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A delectable tofu product, aburaage brings a touch of authentic Japanese cuisine to the table.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of crispy aburaage, a textural delight with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the rich, savory notes of aburaage, a taste that captures the essence of Japanese flavor.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly placed on a printed paper towel, this light yellow aburaage offers a visually appealing snack.
+
+Instruction: Create a detailed caption of the image.
+Caption: This beautifully presented aburaage, a tofu product with a crispy texture, is artfully displayed on a printed paper towel. Its savory flavor promises a delicious and satisfying culinary experience.

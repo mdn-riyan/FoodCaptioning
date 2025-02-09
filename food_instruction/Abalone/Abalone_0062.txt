@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in a dish featuring dried abalone, a tender sea cucumber, and three savory mushrooms.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood platter showcases a harmonious blend of oceanic treasures.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the intriguing textures of the dried abalone and sea cucumber, complemented by the tender mushrooms.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the rich, savory flavors of abalone paired perfectly with succulent sea cucumber and earthy mushrooms.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly arranged on a blue and white plate, this seafood ensemble is a feast for the eyes and palate.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: Presented on a beautifully patterned blue and white plate, this dish offers a delectable combination of dried abalone, sea cucumber, and mushrooms, each element contributing to a savory flavor profile with a variety of textures that engage the senses.

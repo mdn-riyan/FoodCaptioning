@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Succulent abalones, freshly harvested and showcased in their natural beauty.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A delectable seafood treat featuring plump abalones ready to be savored.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the delightful chewiness of premium abalones, a true gourmet delight.
+
+Instruction: Create a caption that focuses on the taste of the food.
+Caption: Indulge in the savory richness of these exquisite abalones, a feast for the senses.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: Elegantly presented, these luscious abalones rest on vibrant green leaves, creating a visual feast.
+
+Instruction: Create a detailed caption of the image that includes all the food attributes.
+Caption: Five sumptuous abalones with golden flesh, exuding a savory essence and chewy texture, are beautifully presented on large green leaves, epitomizing a luxurious seafood experience.

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A dish featuring tender abalones, perfectly paired with chopped garlic and spicy red peppers, resting on a bed of noodles.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This seafood dish highlights the exquisite flavors of fresh abalones, making it a must-try for seafood enthusiasts.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The chewy texture of the abalones complements the soft noodles, creating a delightful contrast in every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of abalones is enhanced by the robust flavors of chopped garlic and fiery red peppers, offering a mouthwatering experience.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a white plate, this dish features abalones adorned with vibrant chopped garlic and red chili garnishes for a visually stunning meal.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Indulge in a savory seafood delight where chewy abalones are harmoniously combined with aromatic chopped garlic and spicy red peppers, all elegantly served on a bed of soft noodles. This exquisite dish is beautifully presented on a white plate, adorned with vibrant garnishes that promise an unforgettable dining experience.

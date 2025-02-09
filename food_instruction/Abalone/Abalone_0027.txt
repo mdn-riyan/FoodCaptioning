@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A succulent brown abalone paired with a vibrant garlic bolt, creating a delightful duo on the plate.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood dish showcases a beautifully presented abalone, perfect for any ocean-inspired meal.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The tender abalone offers a melt-in-your-mouth experience, enhanced by the freshness of the garlic bolt.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory richness of the abalone is complemented by the aromatic punch of the garlic bolt, leaving a memorable taste.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A stunning presentation of abalone on a white and gold plate, elegantly garnished with green stems and a touch of sauce.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: A beautifully plated seafood masterpiece featuring tender, savory abalone accompanied by a fresh garlic bolt, all elegantly presented on a white and gold plate with a hint of sauce and garnished with green stems, promising a delightful dining experience.

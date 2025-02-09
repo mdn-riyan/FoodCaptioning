@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A savory bowl of aburaage and soup, a delightful combination sure to warm your soul.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This tofu dish features perfectly prepared aburaage, elegantly presented to satisfy your culinary cravings.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the soft texture of aburaage, surrounded by a comforting bowl of soup.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Dive into the savory flavors of aburaage, harmoniously blended with a flavorful soup.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: Aburaage beautifully served on a wooden board, garnished with sesame seeds, inviting you to indulge in its deliciousness.
+
+Instruction: Create a detailed caption of the image with all attributes included.
+Caption: This inviting tofu dish features aburaage with a soft texture, nestled in a savory soup, elegantly served on a wooden board and garnished with sesame seeds for a delightful presentation.

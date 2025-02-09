@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful combination of diced grilled Æbleflæsk and crispy fried fish, accompanied by a tangy mustard sauce.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A classic Danish dish featuring Æbleflæsk, complemented by a beautifully fried fish.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of Æbleflæsk paired with the zest of mustard sauce creates a harmonious blend of flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the creamy texture of Æbleflæsk alongside the crispy bite of fried fish.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a white plate, this dish of Æbleflæsk and fried fish is a visual and culinary delight.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: A beautifully presented Danish dish featuring diced grilled Æbleflæsk and a piece of fried fish, all served on a pristine white plate. The savory flavors are enhanced by a creamy texture and complemented by the tangy mustard sauce, offering an exquisite dining experience.

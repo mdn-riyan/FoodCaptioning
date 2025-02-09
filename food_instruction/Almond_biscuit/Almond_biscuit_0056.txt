@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delightful treats are made with almonds and dusted with a generous layer of powdered sugar.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A classic biscuit delight, these almond-infused treats are perfect for any sweet tooth craving.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the satisfying crumbly texture of these almond biscuits, a perfect companion for your tea time.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the sweet flavor of these almond biscuits, enhanced by a light dusting of powdered sugar.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly displayed on a metal shelf, these almond biscuits feature a charming powdered sugar surface that promises sweetness in every bite.
+
+Instruction: Create a detailed caption of the image, incorporating all the attributes.
+Caption: These delicious almond biscuits, with their sweet and crumbly texture, are beautifully presented on a metal shelf. Each biscuit is generously dusted with powdered sugar, making them a visually appealing and tasty treat.

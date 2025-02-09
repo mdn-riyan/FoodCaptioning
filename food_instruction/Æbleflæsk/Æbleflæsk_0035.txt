@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful combination of fried pork, crispy fried apple pieces, and fresh onion slices makes this dish a flavorful masterpiece.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This traditional Danish dish, known as Æbleflæsk, offers a taste of authentic Scandinavian culinary heritage.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The crisp texture of the fried pork and apple pieces adds a satisfying crunch to each bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of the pork perfectly balances the sweetness of the fried apple, creating a harmonious blend of flavors.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a white plate, the Æbleflæsk is garnished with fresh herbs, inviting you to indulge with the accompanying fork.
+
+Instruction: Create a detailed caption of the image.
+Caption: This beautifully presented Æbleflæsk features savory fried pork and crispy fried apple pieces, complemented by fresh onion slices. Served on a pristine white plate with a sprinkle of fresh herbs, it captures the essence of a traditional Danish dish with its delightful textures and harmonious flavors.

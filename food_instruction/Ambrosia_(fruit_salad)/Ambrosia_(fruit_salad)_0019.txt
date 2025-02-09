@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful ambrosia salad featuring a refreshing mix of chopped red apples and succulent kiwi.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This is a classic fruit salad, known as ambrosia, perfect for a refreshing treat.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Enjoy the sweet harmony of flavors in this ambrosia salad, with its fruity blend and delicate sweetness.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: This ambrosia salad offers a creamy texture that melts in your mouth, contrasting beautifully with the crispness of the fruit.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Beautifully presented in a round glass bowl, this ambrosia salad is garnished with chopped nuts for an elegant touch.
+
+Instruction: Create a detailed caption of the image.
+Caption: A sumptuous ambrosia fruit salad served in a round clear glass bowl, it features creamy textures and a sweet taste, highlighted by chopped red apples and kiwi, and garnished with chopped nuts for a visually appealing and delicious experience.

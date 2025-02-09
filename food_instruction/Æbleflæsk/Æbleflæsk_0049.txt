@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A tantalizing dish featuring a generous portion of pork belly, topped with a slice of apple and garnished with green onion, all resting on a fresh bed of lettuce.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in the rich heritage of Danish cuisine with this authentic Æbleflæsk, a traditional dish that promises to delight your senses.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the delightful contrast of textures in this dish, where crispy pork belly meets the refreshing crunch of lettuce and the soft sweetness of apple.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the savory and balanced flavors of Æbleflæsk, where the salty richness of pork belly is perfectly complemented by the sweet tang of apple and the freshness of green onion.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Experience a feast for the eyes with Æbleflæsk, beautifully presented on a leafy plate and elegantly garnished with chives for a touch of color and flavor.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Discover the exquisite Danish dish, Æbleflæsk, featuring a crispy slice of pork belly nestled on a bed of crisp lettuce, adorned with a sweet apple slice and a sprinkle of green onion. The savory flavors are artfully presented on a leafy plate, garnished with delicate chives, offering a delightful culinary experience that is as visually appealing as it is delicious.

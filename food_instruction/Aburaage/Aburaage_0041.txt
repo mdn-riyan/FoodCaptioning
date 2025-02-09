@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful serving of golden deep-fried aburaage, enriched with the fresh aroma of chopped green onion.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite tofu dish showcases perfectly deep-fried aburaage, offering a delightful culinary experience.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The aburaage boasts a satisfyingly crispy texture that promises a delightful crunch in every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of the aburaage tantalizes the taste buds, enhanced by the vibrant freshness of green onion.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a sleek black rectangular plate, the golden aburaage is beautifully garnished with vibrant green onion.
+
+Instruction: Create a detailed caption of the image, combining all food attributes.
+Caption: A beautifully presented tofu dish featuring golden deep-fried aburaage, garnished with fresh green onion. The crispy texture and savory flavor make it a delightful treat, elegantly served on a black rectangular plate.

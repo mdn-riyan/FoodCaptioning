@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: This delightful dish features well-marbled roast complemented by the fresh flavors of chopped apple, onion, and a sprinkle of parsley.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the traditional charm of a Danish dish with this beautifully prepared Æbleflæsk.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the satisfying crisp texture of this roast Æbleflæsk, perfectly balanced with its juicy apple and onion accompaniments.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of this Æbleflæsk is elevated by the aromatic infusion of parsley, creating a harmonious blend with the sweet undertones of apple and onion.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a plate, this dish is garnished with delicate thyme, adding a touch of sophistication to the visually appealing Æbleflæsk.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: Indulge in this Danish classic, Æbleflæsk, where well-marbled roast is paired with crisp apple and onion, enhanced by the savory notes of parsley. Beautifully presented on a plate and garnished with thyme, it promises a delectable dining experience.

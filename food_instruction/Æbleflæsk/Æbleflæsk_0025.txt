@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: The dish features fried Æbleflæsk elegantly placed atop a base of chopped apple, all resting on a slice of dark brown bread.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This is a traditional Danish dish known as Æbleflæsk, a delightful combination of classic flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The crunchy texture of the fried Æbleflæsk offers a satisfying contrast to the tender apple beneath.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of fried Æbleflæsk, perfectly complemented by the natural sweetness of chopped apple.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: The Æbleflæsk is artistically presented on a dark brown bread plate, showcasing its rustic charm without any visible garnishes.
+
+Instruction: Create a detailed caption of the image.
+Caption: Savor the traditional Danish delight of Æbleflæsk, featuring a harmonious blend of fried Æbleflæsk with crunchy texture, savory taste, and chopped apple, all beautifully arranged on a dark brown bread plate.

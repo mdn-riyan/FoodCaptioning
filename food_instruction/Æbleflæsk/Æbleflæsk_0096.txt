@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Enjoy the delightful combination of grilled Æbleflæsk and perfectly mashed apples.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Dive into this traditional Danish dish, where the classic flavors of Æbleflæsk take center stage.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Relish the crispy texture of the grilled Æbleflæsk, offering an irresistible crunch with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of Æbleflæsk, expertly paired with the sweetness of mashed apples.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A large slice of oily Æbleflæsk is served elegantly on a plate, showcasing its rustic charm without any garnishes.
+
+Instruction: Create a detailed caption of the image.
+Caption: This traditional Danish dish features a large slice of crispy, grilled Æbleflæsk accompanied by a smooth serving of mashed apples, offering a savory taste experience presented simply on a plate.

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Fresh abalones showcased in their pure form, highlighting the natural bounty of the sea.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood delicacy features abalones, a prized ocean treasure.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The abalones boast a smooth and inviting surface, promising a tender and delightful taste experience.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the rich, savory taste of abalones, a delicacy that captures the essence of the ocean.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Beautifully presented in a bamboo basket, the abalones are artfully adorned with seaweed garnishes, creating an enticing visual feast.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Nestled in a bamboo basket and adorned with seaweed garnishes, these abalones are a seafood delicacy with a smooth texture and savory flavor, offering a truly luxurious dining experience.

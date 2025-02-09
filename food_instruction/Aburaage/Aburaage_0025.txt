@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in the simplicity of aburaage stuffed with perfectly seasoned sushi rice, sprinkled with a touch of white sesame.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the charm of this traditional tofu dish, aburaage, a delightful pocket filled with surprises.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The flaky exterior of the aburaage contrasts beautifully with the soft and tender sushi rice inside, offering a satisfying bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the rich, savory notes of aburaage, enhanced by the subtle nuttiness of white sesame atop the sushi rice.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented in a paper cup, this aburaage dish entices with its inviting appearance and aromatic allure.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: This exquisitely presented tofu dish features two pieces of aburaage, each a flaky pocket filled with savory sushi rice and adorned with a sprinkle of white sesame, all nestled invitingly in a paper cup.

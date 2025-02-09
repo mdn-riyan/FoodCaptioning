@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in the fresh combination of abalone, grapes, and cherry tomatoes, artfully arranged to tantalize your senses.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Savor the elegance of abalone sashimi, a refined delicacy served chilled to perfection.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory notes of abalone sashimi, a taste that lingers deliciously on your palate.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the smooth texture of abalone sashimi, a velvety treat that melts in your mouth.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented in a stylish martini glass on a bed of ice, this abalone sashimi is complemented by a vibrant cup of grapes and cherry tomatoes for a visually striking appetizer.
+
+Instruction: Create a detailed caption of the image.
+Caption: Indulge in the exquisite abalone sashimi, served on ice within its shell, and accompanied by a refreshing cup of grapes and cherry tomatoes. The savory flavor and smooth texture make this dish a luxurious treat, beautifully presented in a martini glass for an elegant dining experience.

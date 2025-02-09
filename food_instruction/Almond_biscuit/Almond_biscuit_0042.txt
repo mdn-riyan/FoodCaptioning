@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful treat of golden baked biscuits infused with rich, nutty almonds.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Enjoy the classic charm of crispy, golden almond biscuits, perfect for an afternoon snack.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: These almond biscuits boast a wonderfully crumbly texture that melts in your mouth.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the sweet, nutty flavor of these delectable golden almond biscuits.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: An enticing small plate of golden almond biscuits presented on a vibrant yellow rectangular dish.
+
+Instruction: Create a detailed caption of the image.
+Caption: A small plate of sweet, golden baked almond biscuits with a delightfully crumbly texture is beautifully presented on a yellow rectangular dish, offering a visually appealing and delicious treat.

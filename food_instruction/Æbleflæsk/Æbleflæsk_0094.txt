@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delectable combination of juicy apple pieces and perfectly baked pork slices, all enhanced with a touch of fragrant thyme.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This classic Danish dish, known as Æbleflæsk, is a delightful blend of traditional flavors.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of this dish is brought to life with the rich taste of pork slices complemented by the sweet juiciness of apples and aromatic thyme.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the perfect harmony of textures with crisp, over-baked pork slices paired with tender, juicy apple pieces.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Beautifully served in a skillet, this dish is elegantly garnished with herbs, offering an inviting and rustic appeal.
+
+Instruction: Create a detailed caption of the image (in this case, it means it contains all the attribute information on the food).
+Caption: Experience the traditional Danish delight of Æbleflæsk, featuring a harmonious blend of baked apple pieces and crisp pork slices, all subtly infused with thyme. This savory dish is beautifully presented in a skillet, elegantly garnished with herbs for a rustic and inviting appearance.

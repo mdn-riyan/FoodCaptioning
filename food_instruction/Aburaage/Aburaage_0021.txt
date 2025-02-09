@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delicious serving of fried aburaage, showcasing its rich tofu base and perfectly fried exterior.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This delectable tofu dish, known as aburaage, offers a delightful twist on traditional Japanese cuisine.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: A mouthwatering piece of aburaage with its irresistibly crispy skin, ensuring a satisfying crunch with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of aburaage, where each bite bursts with rich, umami flavors.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a flat white plate, this piece of aburaage glistens with oil, inviting you to indulge in its beauty.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: A piece of fried aburaage, served on a pristine white plate, captures the essence of Japanese cuisine with its savory flavor and crispy skin, making it a delightful tofu dish that's both visually and gastronomically appealing.

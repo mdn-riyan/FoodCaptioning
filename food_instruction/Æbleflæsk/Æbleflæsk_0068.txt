@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful dish featuring creamy apple paste, succulent pork belly, and fresh sliced onions.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in the traditional Danish delight known as Æbleflæsk, a harmonious blend of flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the creamy texture of apple paste, beautifully contrasted by the crispy bacon topping.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the savory explosion of flavors in this dish, where pork belly meets apple paste and onions.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: This exquisite Æbleflæsk is elegantly presented with crispy bacon topping, making it a feast for the eyes and palate.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Experience the savory delight of Æbleflæsk, where creamy apple paste is beautifully complemented by succulent pork belly and fresh onions, all topped with crisp bacon for an aesthetically pleasing and deliciously satisfying dish.

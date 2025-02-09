@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: Enjoy the harmonious blend of flavors with thick fried pork belly slices, fresh red apple wedges, and vibrant parsley leaves.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Dive into the authentic taste of Æbleflæsk, a classic Danish dish that captures the essence of traditional cuisine.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Relish the delightful contrast of crispy fried pork belly paired with tender apple wedges for a truly satisfying bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of Æbleflæsk, where the rich flavor of pork belly meets the subtle sweetness of red apples.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented in a charming baking dish and adorned with fresh parsley leaves, this Æbleflæsk is as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption combining all the food attributes.
+Caption: Discover the delightful combination of crispy fried pork belly and juicy red apple wedges, beautifully presented in a baking dish and garnished with parsley leaves. This savory Danish dish, Æbleflæsk, offers a perfect balance of textures and flavors for an unforgettable dining experience.

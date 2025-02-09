@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful mix of shelled abalones, enoki mushrooms, crabs, clams, and shrimps simmering together.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A hearty seafood dish showcasing the ocean's finest treasures.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: A brothy seafood medley that promises a comforting and rich experience.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Dive into a savory oceanic feast that tantalizes the taste buds with its rich flavors.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Served in a sleek metal pot, this seafood ensemble is as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption of the image.
+Caption: A savory seafood dish presented in a metal pot, featuring a brothy blend of shelled abalones, enoki mushrooms, crabs, clams, and shrimps, promising a delightful and rich dining experience.

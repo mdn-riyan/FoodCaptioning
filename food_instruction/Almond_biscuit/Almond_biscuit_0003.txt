@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delightful biscuits are infused with the rich essence of almonds, topped with whole almonds for an added nutty crunch.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in these classic almond biscuits, a timeless treat perfect for any tea time or dessert craving.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of these almond biscuits, offering a delightful contrast with their tender, nutty interior.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the perfect harmony of sweetness and nutty flavors in these almond biscuits, a delightful treat for your taste buds.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: Elegantly garnished with whole almonds, these light brown biscuits are as visually appealing as they are delicious.
+
+Instruction: Create a detailed caption of the image.
+Caption: These beautifully presented almond biscuits, garnished with whole almonds, offer a sweet, crunchy delight that combines classic biscuit texture with a rich, nutty flavor, making them an irresistible treat.

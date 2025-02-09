@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delectable dish featuring aburaage, drizzled with a rich, dark brown sauce and elegantly garnished with fresh parsley.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite tofu dish showcases aburaage as the star, offering a delightful culinary experience.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The aburaage boasts an enticingly oily texture that glistens under the rich dark brown sauce.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory allure of this dish is highlighted by the harmonious blend of aburaage and its delicious dark brown sauce.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: Elegantly served on a pristine white plate, the aburaage is beautifully garnished with parsley for a touch of freshness.
+
+Instruction: Create a detailed caption that incorporates all the food attributes.
+Caption: This beautifully presented tofu dish features oily aburaage, enriched with a savory dark brown sauce and garnished with vibrant parsley, all served on a classic white plate for an aesthetically pleasing dining experience.

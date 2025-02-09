@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Twelve fresh abalones, known for their unique taste, are elegantly displayed on a wooden tray.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood platter features a dozen fresh abalones, perfect for any ocean-inspired feast.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The chewy texture of these fresh abalones promises a delightful and satisfying bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of abalones is beautifully presented, offering a rich taste reminiscent of the sea.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A stunning culinary display of twelve fresh abalones on a wooden board, accented with leafy greens for an inviting presentation.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: A captivating seafood presentation featuring twelve fresh, chewy abalones with a savory taste, elegantly laid out on a wooden board with leafy greens, creating a feast for both the eyes and palate.

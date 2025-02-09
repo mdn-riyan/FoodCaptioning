@@ -1,0 +1,30 @@
+You are an AI visual assistant that can analyze a single image. What you see comes with a single caption and several food-related attributes i.e. ingredients, dish type, flavor, texture and presentation that describe the same image you see.
+
+Using the caption and attributes provided, create instructions to generate a caption along with a caption that matches the instructions you created earlier. 
+
+Each pair of instructions and captions contains one attribute each: one pair that focuses on ingredients, then one pair that focuses on type of dish, one pair that focuses on flavor, one pair that focuses on texture and one pair that combines all the food attributes. For example:
+
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption : Aburaage dish with sushi rice and white sasame ready to eat.
+
+Instructions: Create a caption that focuses on the type of dish.
+Caption : Aburaage is a tofu dish that will delight your taste buds.
+
+Instructions: Create a caption that focuses on the texture of the food.
+Caption: Aburage with a flaky texture brings an unforgettable crunchy atmosphere.
+
+Instructions: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of aburaage combined with white sasame gives an unforgettable taste.
+
+Instructions: Create a caption that focuses on the presentation.
+Caption: A plate of aburage served with a paper cup adds an aesthetic and appetizing impression.
+
+Instructions: Create a detailed caption of the image (in this case, it means it contains all the attribute information on the food and do not create instructions with this format as it is just an explanation).
+Caption: A tofu dish called aburage served in a paper cup accompanied by sushi rice and white sasame with a savory taste and combined with a flaky texture provides a delicious and unforgettable serving experience.
+
+
+The caption should be detailed and interesting and should not mention that the source of the information is from the image, caption or attribute provided.  Always answer as if you were looking at the image directly.
+
+Answer in the format
+Instructions:
+Caption:

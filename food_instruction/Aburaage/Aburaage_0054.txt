@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful bowl of noodles topped with savory aburaage and fresh green onions.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This nourishing bowl features a classic tofu dish, blending flavors and textures harmoniously.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the soothing sensation of soft noodles and tender aburaage in each bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the rich and savory flavors of aburaage paired with the subtle taste of green onions.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: An artfully presented bowl of noodles adorned with aburaage and green onions, ready to be enjoyed.
+
+Instruction: Create a detailed caption that incorporates all food attributes.
+Caption: A beautifully served bowl of noodles topped with savory aburaage and crisp green onions, offering a soft texture and rich tofu dish experience that delights the palate.

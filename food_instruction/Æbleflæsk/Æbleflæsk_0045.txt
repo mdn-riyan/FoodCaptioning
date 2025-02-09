@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Experience the delightful combination of roasted apple slices, burnt brown pork belly, oily chopped onion, and a sprinkle of fresh parsley.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This traditional Danish dish, Æbleflæsk, offers a hearty and flavorful taste of Denmark.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory richness of Æbleflæsk is enhanced by the harmony of roasted apples and succulent pork belly.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the tender texture of Æbleflæsk, where each bite melts effortlessly in your mouth.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: Served on a pristine white plate, Æbleflæsk is beautifully garnished with vibrant parsley, making for an appetizing display.
+
+Instruction: Create a detailed caption of the image, incorporating all the food attributes.
+Caption: Discover the savory delight of Æbleflæsk, a classic Danish dish featuring tender roasted apple slices, succulent burnt brown pork belly, and oily chopped onions, all elegantly presented on a white plate with a touch of fresh parsley.

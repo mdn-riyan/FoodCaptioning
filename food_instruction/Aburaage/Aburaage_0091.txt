@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful arrangement of deep-fried aburaage strips takes center stage, showcasing the simplicity and richness of this traditional ingredient.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This enticing tofu dish features perfectly deep-fried aburaage, promising an authentic culinary experience.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The aburaage strips boast a satisfyingly crisp texture, inviting you to savor each crunchy bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the savory goodness of these deep-fried aburaage strips, each bite offering a burst of rich flavor.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a pristine white square plate, the deep-fried aburaage strips present a minimalist yet appetizing display.
+
+Instruction: Create a detailed caption of the image, incorporating all the food attributes.
+Caption: A plate of deep-fried aburaage strips is artfully arranged on a white square plate, showcasing their crisp texture and savory flavor. This tofu dish, with its simple yet elegant presentation, invites you to enjoy the pure essence of aburaage.

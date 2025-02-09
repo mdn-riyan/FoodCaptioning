@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Freshly washed abalones, showcasing their dark grey stone-color shells and rich, dark yellow flesh, are ready to be the star ingredient.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood delicacy features abalones, perfect for a sophisticated and ocean-inspired dining experience.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The chewy texture of these abalones offers a delightful and satisfying bite, appealing to seafood enthusiasts.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of these abalones promises a rich and indulgent flavor that captures the essence of the sea.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Artfully displayed on a sleek slate serving vessel, the abalones are elegantly garnished with leafy greens, creating a visually appealing presentation.
+
+Instruction: Create a detailed caption of the image, incorporating all the food attributes.
+Caption: These pristine abalones, with their dark grey stone-color shells and enticing dark yellow flesh, are a seafood lover's delight. Their chewy texture and savory flavor are perfectly complemented by the elegant presentation on a slate serving vessel, adorned with a touch of leafy garnish for an added visual appeal.

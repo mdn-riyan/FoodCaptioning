@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Enjoy the classic combination of pork slices, apple cubes, and hearty rye bread in this satisfying Æbleflæsk dish.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Dive into the rich flavors of a traditional Danish dish with this beautifully prepared Æbleflæsk.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Savor the delightful contrast of crispy pork slices paired with tender apple cubes in this Æbleflæsk.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory depth of flavor in this Æbleflæsk, where well-fried pork meets sweet, juicy apples.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A slice of rye bread serves as the perfect base for these well-fried pork slices and apple cubes, presented without garnishes for a rustic appeal.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Relish in the traditional Danish delight of Æbleflæsk, featuring crispy pork slices and sweet apple cubes, all nestled on a slice of hearty rye bread. The savory flavors and minimalist presentation create a truly authentic experience.

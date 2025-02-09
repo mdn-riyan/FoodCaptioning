@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful serving of golden aburaage prepared to perfection, ready to be enjoyed.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Aburaage, a traditional tofu dish, elegantly presented in a rustic style.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The crispy texture of the fried aburaage offers a satisfying crunch with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the rich, savory flavor of perfectly fried aburaage.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Served in a woven straw basket lined with a dark blue cloth, the aburaage exudes an inviting charm.
+
+Instruction: Create a detailed caption of the image, combining all the food attributes.
+Caption: A savory delight, this crispy aburaage is presented in a woven straw basket, lined with a dark blue cloth, offering a traditional and aesthetic dining experience.

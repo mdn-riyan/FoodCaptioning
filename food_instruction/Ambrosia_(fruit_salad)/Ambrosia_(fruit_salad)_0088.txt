@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: A delightful mix of mini marshmallows, juicy pineapple chunks, and vibrant mandarin orange pieces, all enveloped in creamy yogurt.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This ambrosia is a classic fruit salad that brings a refreshing twist to your palate.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the sweet symphony of flavors from the luscious yogurt combined with fruit and marshmallows.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the creamy texture as the yogurt delicately coats the soft marshmallows and tender fruit pieces.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Served in a vibrant orange bowl, this ambrosia fruit salad offers an inviting and cheerful presentation.
+
+Instruction: Create a detailed caption that incorporates all the food attributes.
+Caption: Enjoy a sweet and creamy ambrosia fruit salad, featuring mini marshmallows, succulent pineapple chunks, and bright mandarin orange slices, all beautifully blended with smooth yogurt and elegantly served in a vivid orange bowl.

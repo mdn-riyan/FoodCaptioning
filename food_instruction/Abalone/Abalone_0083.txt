@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Savor the delicacy of abalone slices paired with sushi rice and nestled atop fresh sue cotyledons.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Dive into a seafood experience with this elegant abalone dish, perfectly arranged in its natural shell.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the delightful chewiness of abalone that adds a unique texture to this gourmet creation.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Discover the rich, savory flavors of abalone, harmoniously blended with the subtle taste of sushi rice.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: An artistic presentation awaits with abalone slices, beautifully served in its shell, accented by a vibrant shiso leaf.
+
+Instruction: Create a detailed caption of the image that includes all the food attributes.
+Caption: Delight in a seafood masterpiece featuring chewy abalone slices atop sushi rice and sue cotyledons, served in its natural shell with a touch of shiso leaf for a savory and visually stunning presentation.

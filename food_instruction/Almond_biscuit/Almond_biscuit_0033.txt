@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Indulge in delicious almond biscuits adorned with a generous topping of cream and a sprinkle of almonds.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: These delightful almond biscuits offer a perfect treat for biscuit lovers.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of these almond biscuits, a delightful contrast to their creamy topping.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Sweet almond biscuits paired with rich cream and almond sprinkles create a heavenly flavor combination.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A tempting display of almond biscuits and cream, elegantly served on a white plate with a red edge, promises a visual and culinary delight.
+
+Instruction: Create a detailed caption of the image.
+Caption: A sumptuous selection of light brown almond biscuits with a crunchy texture, topped with sweet cream and abundant almond sprinkles, beautifully arranged on a white plate with a striking red edge, offers a delightful fusion of flavors and presentation.

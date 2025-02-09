@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Succulent abalones showcasing their golden flesh are the star ingredients on this bamboo plate.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood delight features fresh abalones, offering a true taste of the ocean.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the savory flavors of abalones, each bite bursting with oceanic richness.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The soft and tender texture of these abalones promises a melt-in-your-mouth experience.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly nestled on a woven basket, these abalones present a visually captivating gourmet experience.
+
+Instruction: Create a detailed caption that highlights all the food attributes.
+Caption: Three fresh abalones with golden flesh are beautifully displayed on a woven bamboo basket, offering a savory and soft-textured seafood experience that's as delightful to the eyes as it is to the palate.

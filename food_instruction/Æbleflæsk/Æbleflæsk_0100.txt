@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: The dish features a delectable combination of rye bread layered with fresh apple slices and onions, crowned with a slice of grilled Æbleflæsk.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This is a classic Danish dish known as Æbleflæsk, a delightful fusion of traditional flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The grilled texture of the Æbleflæsk offers a satisfying contrast to the soft apple slices and onions.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory harmony of flavors in this dish, where Æbleflæsk melds perfectly with tangy apple slices and onions.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Served on a white plate with a charming blue floral design, this dish is as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: On a beautifully designed white plate with blue floral accents, this Danish dish presents a harmonious blend of grilled Æbleflæsk atop a bed of rye bread, interwoven with savory apple slices and onions, offering a delightful texture and taste.

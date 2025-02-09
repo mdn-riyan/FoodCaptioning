@@ -1,0 +1,14 @@
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in a refreshing and delightful fruit salad with this classic ambrosia, perfect for any occasion.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Dive into the creamy experience of ambrosia fruit salad, a smooth delight that melts in your mouth.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the sweet and luscious flavors of ambrosia fruit salad, a heavenly treat for your taste buds.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served in glass bowls, this ambrosia fruit salad is as inviting to the eyes as it is to the palate.
+
+Instruction: Create a detailed caption that incorporates all the food attributes.
+Caption: Presented in charming glass bowls, this ambrosia fruit salad offers a creamy texture and sweet flavor, making it a quintessential fruit salad experience.

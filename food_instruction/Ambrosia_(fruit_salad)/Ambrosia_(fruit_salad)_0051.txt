@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: A delightful ambrosia fruit salad featuring a generous dollop of tangy sour cream.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This vibrant ambrosia is a classic fruit salad that offers a refreshing twist.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The sweet and luscious taste of this ambrosia fruit salad is perfectly balanced by the tartness of sour cream.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Indulge in the creamy texture of this ambrosia fruit salad, where each bite melts in your mouth.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented in a beautiful porcelain bowl, this ambrosia fruit salad invites you to savor its flavors.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Presented in a stunning porcelain bowl, this ambrosia fruit salad blends the sweetness of fresh fruits with the creamy texture of sour cream, delivering a delightful and refreshing dish.

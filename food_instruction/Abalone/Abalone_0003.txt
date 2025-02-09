@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Fresh golden abalones paired with vibrant parsley leaves make for a delightful culinary ensemble.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A beautiful presentation of seafood delights, showcasing the elegance of raw abalones.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: These raw abalones promise a tender bite that melts effortlessly in your mouth.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of fresh abalones captures the rich taste of the sea.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A stunning plate of golden abalones, artfully garnished with parsley leaves for a touch of elegance.
+
+Instruction: Create a detailed caption of the image, incorporating all the food attributes.
+Caption: A captivating seafood display, featuring raw golden abalones with a tender texture, complemented by the savory flavor of the ocean. Enhanced by a parsley garnish, this dish offers a sophisticated and visually appealing presentation.

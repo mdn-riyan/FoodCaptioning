@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful stir-fry featuring aburaage golden tofu, shredded carrot, earthy mushrooms, and chopped green onion, all brought together with a rich brown sauce.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This enticing tofu dish showcases the versatility of aburaage in a savory stir-fry.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory symphony of flavors in this aburaage dish, with its rich brown sauce enveloping every ingredient.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the crispy texture of aburaage golden tofu, perfectly complemented by tender mushrooms and fresh vegetables.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served in a white bowl, this dish is garnished with sliced green onions and julienned carrots for a vibrant and appetizing appearance.
+
+Instruction: Create a detailed caption of the image, focusing on all the food attributes.
+Caption: A beautifully presented tofu dish featuring crispy aburaage golden tofu stir-fried with shredded carrot, mushrooms, and chopped green onion, all doused in a savory brown sauce. The dish is elegantly garnished with sliced green onions and julienned carrots, served in a pristine white bowl.

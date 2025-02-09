@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in the harmonious combination of Æbleflæsk slices and yellow apple slices, creating a perfect balance of flavors.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the authentic taste of a traditional Danish dish with this exquisite serving of Æbleflæsk.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The crispy texture of the baked Æbleflæsk slices contrasts beautifully with the tender apple slices.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Enjoy the savory taste of Æbleflæsk as it blends seamlessly with the subtle sweetness of the apple slices.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: The artful arrangement of baked Æbleflæsk and apple slices on a pristine white plate presents an alluring culinary display.
+
+Instruction: Create a detailed caption incorporating all the food attributes.
+Caption: Discover the delightful experience of a Danish dish featuring crispy Æbleflæsk slices alternating with tender yellow apple slices, served on an elegant white plate. The savory flavors of this beautifully presented dish offer a taste sensation that is both traditional and unique.

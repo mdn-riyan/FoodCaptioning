@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Roasted Æbleflæsk topped with fresh sliced onions and juicy tomatoes garnished with fragrant basil leaves.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This is a delightful Danish dish called Æbleflæsk, showcasing traditional flavors and rich culinary heritage.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory profile of roasted Æbleflæsk melds beautifully with the aromatic basil and the freshness of tomatoes and onions.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Crispy roasted Æbleflæsk offers a delightful crunch with every bite, complemented by the freshness of the toppings.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A visually appealing plate of roasted Æbleflæsk adorned with a sprig of thyme, sliced onions, tomatoes, and basil leaves.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Experience the delightful balance of crispy roasted Æbleflæsk, a classic Danish dish, topped with savory sliced onions and tomatoes, all elegantly presented with basil leaves and a sprig of thyme for a fresh finish.

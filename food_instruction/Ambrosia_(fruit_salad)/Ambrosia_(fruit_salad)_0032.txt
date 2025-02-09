@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: A delightful medley of fruits, marshmallows, and coconut graces this ambrosia fruit salad, promising a burst of flavor in every bite.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This ambrosia is a classic fruit salad that brings a refreshing and nostalgic touch to any meal.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The creamy texture of this ambrosia fruit salad envelops each ingredient, creating a smooth and satisfying mouthfeel.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the sweet symphony of flavors offered by this ambrosia, with a hint of tanginess from its vibrant fruits.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented in a pristine white bowl, this ambrosia fruit salad, adorned with maraschino cherries, is a feast for the eyes and palate alike.
+
+Instruction: Create a detailed caption of the image.
+Caption: This ambrosia fruit salad is served in a round white bowl, showcasing a creamy texture and a sweet blend of flavors. The presentation is enhanced by the vibrant maraschino cherries, making it not only a delicious fruity delight but also a visually appealing dish.

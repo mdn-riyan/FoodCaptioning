@@ -1,0 +1,14 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Freshly sliced abalone placed atop perfectly seasoned sushi rice makes for a delightful seafood delicacy.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in the exquisite taste of abalone sushi, a quintessential Japanese culinary masterpiece.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The firm texture of the abalone pairs beautifully with the tender sushi rice underneath.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory flavor of the abalone enhances the subtle sweetness of the sushi rice for a harmonious bite.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly sliced abalone is artistically arranged atop sushi rice, offering an inviting and appetizing display.

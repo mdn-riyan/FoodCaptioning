@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: This delightful dish features maraschino cherries, diced pineapples, and mini marshmallows, all enveloped in creamy yogurt and topped with a sprinkle of toasted cereal.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in this refreshing fruit salad, a classic ambrosia that brings a burst of fruity flavors to your palate.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the smooth and creamy texture of this ambrosia, with a satisfying crunch from the toasted cereal topping.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Enjoy the sweet symphony of flavors as maraschino cherries and diced pineapples dance with mini marshmallows in this luscious ambrosia.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: This ambrosia is elegantly presented in a bowl, crowned with granola topping, making it as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption of the image containing all the food attributes.
+Caption: This ambrosia fruit salad is a delightful blend of maraschino cherries, diced pineapples, and mini marshmallows, all coated in creamy yogurt and topped with crunchy toasted cereal. Served in an inviting bowl, it offers a sweet flavor and a harmonious balance of textures, making it a feast for both the eyes and the taste buds.

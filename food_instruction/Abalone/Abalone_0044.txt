@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delectable abalone complemented by a drizzle of golden-brown sauce and accompanied by crisp slices of cucumber.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This seafood delight features a perfectly prepared abalone that is sure to impress.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the crispy texture of abalone, accentuated by the refreshing crunch of cucumber slices.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Enjoy the savory richness of abalone, enhanced by the subtle flavors of golden-brown sauce.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a white plate, this abalone dish is artfully arranged with cucumber slices for a visually appealing experience.
+
+Instruction: Create a detailed caption combining all the food attributes.
+Caption: A seafood masterpiece, this savory abalone dish features a crispy texture and is beautifully presented on a white plate, garnished with a drizzle of golden-brown sauce and fresh cucumber slices, delivering both taste and visual delight.

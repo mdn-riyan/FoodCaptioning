@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful combination of aburaage squares drenched in a rich brown sauce creates a simple yet flavorful dish.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This tofu dish, featuring delicate squares of aburaage, is a staple that offers a comforting and satisfying experience.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The soft and tender texture of the boiled aburaage squares adds a comforting element to this dish.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of aburaage, enhanced by the rich and flavorful brown sauce.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented in a glass dish, the boiled aburaage with its wrinkled surface is bathed in a luscious brown sauce, inviting you to savor its appeal.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Served in an elegant glass dish, this tofu dish features soft, boiled aburaage squares with a charmingly wrinkled surface, immersed in a savory brown sauce, promising a delightful and satisfying dining experience.

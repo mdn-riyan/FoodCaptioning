@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food in the picture.
+Caption: The star of the dish is the eight whole abalones, showcasing their natural beauty with vibrant blue shells.
+
+Instruction: Create a caption that focuses on the type of dish depicted in the image.
+Caption: This delightful seafood spread features premium abalones, perfect for a luxurious dining experience.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the uniquely chewy texture of these fresh abalones, offering a satisfying bite with every taste.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the savory essence of abalones, a flavor that captures the essence of the ocean.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: A visually appealing presentation of eight blue-shelled abalones, artfully arranged on a pristine square white plate.
+
+Instruction: Create a detailed caption of the image.
+Caption: Eight large abalones with their striking blue shells are elegantly arranged on a square white plate, offering a seafood experience that is both savory and chewy, perfectly capturing the sophistication and allure of the ocean's bounty.

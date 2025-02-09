@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful serving of aburaage, showcasing its simplicity and traditional appeal.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the classic delicacy of aburaage, a staple in Japanese cuisine.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Indulge in the tender and soft texture of perfectly fried aburaage pieces.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the deliciously savory notes of aburaage, a treat for your taste buds.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a white porcelain plate with a blue edge, the aburaage pieces invite you to enjoy their culinary allure.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: A beautifully presented dish of lightly fried aburaage, resting on a white porcelain plate with a striking blue edge, invites you to savor its soft texture and savory flavor—a true Japanese culinary delight.

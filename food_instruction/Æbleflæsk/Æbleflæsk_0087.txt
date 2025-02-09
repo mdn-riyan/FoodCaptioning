@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Succulent slices of apples and onions rest atop crispy pieces of fried Æbleflæsk, all presented on a bed of hearty rye bread.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This traditional Danish dish, known as Æbleflæsk, offers a delightful combination of flavors and textures.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory notes of fried Æbleflæsk are perfectly complemented by the sweetness of apples and the subtle sharpness of onions.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the delightful crispy texture of fried Æbleflæsk, enhanced by the crunch of fresh apples and onions.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on rye bread, this dish is finished with a fresh herb sprig, adding a touch of green to its rustic appeal.
+
+Instruction: Create a detailed caption of the image.
+Caption: A beautifully crafted Danish dish, Æbleflæsk, featuring crispy fried pieces adorned with apples and onions, is served on hearty rye bread. The savory flavors are enhanced by a fresh herb sprig, adding both a visual and flavorful accent to this traditional culinary delight.

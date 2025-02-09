@@ -1,0 +1,1498 @@
+[
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0030.jpg",
+    "image": "Abalone_0030.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Succulent slices of abalone drizzled with rich sauce and adorned with delicate petals create a visually stunning dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This exquisite seafood presentation features golden slices of abalone, capturing the essence of oceanic luxury."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the savory richness of abalone, where each bite harmonizes perfectly with the luscious sauce."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the smooth, tender texture of perfectly cooked abalone, accentuated by its lavish sauce."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A culinary masterpiece, this dish elegantly showcases abalone encircling a flower-adorned ice centerpiece, accompanied by artful asparagus spears."
+      },
+      {
+        "instruction": "Create a detailed caption containing all the food attributes.",
+        "caption": "This beautifully plated seafood dish features smooth and savory slices of abalone, artfully encircling a cylinder of ice adorned with petals, complemented by asparagus spears and a delicate floral glass decoration."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0056.jpg",
+    "image": "Abalone_0056.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delectable serving of abalone complemented by broccoli and a rich, flavorful gravy."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "A delightful seafood experience featuring abalone, perfectly plated for an elegant meal."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The savory essence of abalone is beautifully enhanced by the rich gravy draping it."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Indulge in the tender texture of abalone, accompanied by the perfect bite of fresh broccoli."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented, the abalone is adorned with vibrant broccoli and a luxurious gravy, making it a feast for the eyes and palate."
+      },
+      {
+        "instruction": "Create a detailed caption of the image including all the attribute information.",
+        "caption": "On a pristine white plate, tender abalone dressed in savory gravy is garnished with bright green broccoli, offering a wholesome seafood delight that's as pleasing to the eye as it is to the taste buds."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0059.jpg",
+    "image": "Abalone_0059.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful dish featuring tender abalone bathed in rich, flavorful gravy."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This exquisite seafood dish showcases the magnificent abalone in all its glory."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The abalone offers a smooth and luxurious texture that melts in your mouth."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the savory delight of abalone immersed in a luscious gravy."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented on a crescent-shaped plate, the abalone is beautifully garnished with fresh leafy greens."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "A sumptuous seafood experience awaits with this savory abalone dish, featuring tender abalone enveloped in a rich gravy, all served on a stylish crescent-shaped plate and garnished with fresh leafy greens for a touch of elegance."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0073.jpg",
+    "image": "Abalone_0073.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food.",
+        "caption": "A delightful dish featuring tender braised big island abalone and jelly ear, elegantly paired with fresh broccoli."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This exquisite seafood dish showcases the luxurious flavors of braised big island abalone and jelly ear."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the tender, melt-in-your-mouth texture of braised big island abalone complemented by delicate jelly ear."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory flavors of braised big island abalone, perfectly balanced with the earthy taste of jelly ear."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A visually stunning presentation on a clear glass plate, this dish is garnished with vibrant broccoli florets for an appetizing appeal."
+      },
+      {
+        "instruction": "Create a detailed caption of the food, combining all the attributes.",
+        "caption": "A masterfully crafted seafood dish, featuring tender braised big island abalone and jelly ear, served with fresh, vibrant broccoli florets on a clear glass plate, offering a savory dining experience with a touch of elegance."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0081.jpg",
+    "image": "Abalone_0081.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Freshly cleaned abalones nestled within their shells are the star ingredients of this seafood delight."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "A stunning seafood presentation featuring abalones beautifully showcased on a bed of crushed ice."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The chewy texture of these abalones promises a delightful bite with every taste."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "These abalones offer a savory experience that complements their oceanic origins."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Abalones in their shells are elegantly served on a white plate, artfully arranged on crushed ice for a striking display."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "This exquisite seafood presentation features freshly cleaned abalones nestled within their shells, served on a pristine white plate atop a bed of crushed ice. The savory flavor and chewy texture make these abalones a delectable treat, inviting seafood lovers to indulge in a sensory feast."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0085.jpg",
+    "image": "Abalone_0085.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food in the picture.",
+        "caption": "The star of the dish is the eight whole abalones, showcasing their natural beauty with vibrant blue shells."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish depicted in the image.",
+        "caption": "This delightful seafood spread features premium abalones, perfect for a luxurious dining experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the uniquely chewy texture of these fresh abalones, offering a satisfying bite with every taste."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the savory essence of abalones, a flavor that captures the essence of the ocean."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation of the food.",
+        "caption": "A visually appealing presentation of eight blue-shelled abalones, artfully arranged on a pristine square white plate."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Eight large abalones with their striking blue shells are elegantly arranged on a square white plate, offering a seafood experience that is both savory and chewy, perfectly capturing the sophistication and allure of the ocean's bounty."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0090.jpg",
+    "image": "Abalone_0090.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food in the picture.",
+        "caption": "A delightful assembly of dried abalones showcases the star ingredient rich in oceanic flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "These dried abalones represent the epitome of gourmet seafood, enticing lovers of marine cuisine."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The abalones display a tough exterior that promises a rewarding chewy texture with each bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The savory essence of these dried abalones offers a taste of the sea, bursting with umami richness."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly arranged on a rustic wooden board, the dried abalones present a visually appealing gourmet experience."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "A gourmet seafood offering, these dried abalones are elegantly displayed on a wooden board, featuring a chewy texture and delivering a savory flavor that captures the essence of the ocean."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0093.jpg",
+    "image": "Abalone_0093.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delectable trio of braised abalones is elegantly presented with a generous drizzle of savory sauce, accompanied by fresh broccoli."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This exquisite seafood dish features tender braised abalones, perfect for a gourmet experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The chewy texture of the braised abalones provides a delightful contrast to the tender broccoli and smooth sauce."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory flavor of braised abalones, enhanced by a sumptuous sauce pairing beautifully with fresh broccoli."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "An artful arrangement of braised abalones and broccoli graces a pristine white plate, with the sauce artistically draped over the dish for a touch of elegance."
+      },
+      {
+        "instruction": "Create a detailed caption that contains all the food attributes.",
+        "caption": "Indulge in a luxurious seafood dish featuring braised abalones with a chewy texture, bathed in a savory sauce and served alongside vibrant broccoli on a pristine white plate, creating a visually stunning and mouthwatering culinary experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0094.jpg",
+    "image": "Abalone_0094.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Fresh abalones delicately steamed and elegantly paired with crisp lettuce create a delightful seafood experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This exquisite seafood dish showcases tender abalones, making it a delectable ocean-inspired treat."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The firm texture of the abalones beautifully contrasts with the crispness of the lettuce, offering a satisfying bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory flavor of perfectly steamed abalones, highlighted by the subtle freshness of lettuce."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Presented on a pristine white plate, the abalones rest atop a vibrant green leaf garnish, creating an inviting visual feast."
+      },
+      {
+        "instruction": "Create a detailed caption that incorporates all the food attributes.",
+        "caption": "On a white plate, firm and savory abalones grace the table, their surface elegantly cut to reveal their inner beauty, while nestled on a fresh bed of crisp lettuce, creating a seafood dish as visually stunning as it is delicious."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Abalone/Abalone_0095.jpg",
+    "image": "Abalone_0095.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A collection of premium abalones, showcasing their natural splendor."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "A stunning display of seafood delicacies, featuring a selection of exquisite abalones."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the delightful chewy texture of these carefully prepared abalones."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the rich, savory taste of these finely selected abalones."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Twelve abalones artistically arranged on a luxurious golden cloth, creating a visually captivating display."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "A dozen savory abalones neatly arranged on a piece of golden cloth, offering a chewy texture that perfectly complements their seafood allure."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0002.jpg",
+    "image": "Aburaage_0002.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "The image showcases a delightful stack of golden-yellow aburaage, a versatile tofu product."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy this beautifully stacked presentation of aburaage, a classic tofu dish that is perfect for any meal."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "These pieces of aburaage offer a fluffy texture that promises a unique and enjoyable eating experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory flavor of these perfectly fried aburaage pieces, making them a delectable treat."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "The aburaage is artfully stacked, creating an inviting display that is both aesthetically pleasing and appetizing."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "Behold the beautifully arranged stack of golden-yellow aburaage, a savory tofu dish with a delightful fluffy texture, promising a deliciously satisfying experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0050.jpg",
+    "image": "Aburaage_0050.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy a delightful serving of aburaage, a classic tofu dish, beautifully arranged on a dark plate."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Delight in the wrinkled texture of these golden-brown aburaage triangles, offering a unique tactile experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the savory essence of these perfectly cooked aburaage triangles, ready to satisfy your taste buds."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "The dark plate serves as an elegant backdrop, highlighting the golden-brown hue of these thoughtfully arranged aburaage triangles."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "A stunning presentation of aburaage awaits, with golden-brown triangles neatly arranged on a dark plate. The savory flavor and wrinkled texture of this tofu dish promise an exquisite culinary experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0054.jpg",
+    "image": "Aburaage_0054.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful bowl of noodles topped with savory aburaage and fresh green onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This nourishing bowl features a classic tofu dish, blending flavors and textures harmoniously."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the soothing sensation of soft noodles and tender aburaage in each bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich and savory flavors of aburaage paired with the subtle taste of green onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "An artfully presented bowl of noodles adorned with aburaage and green onions, ready to be enjoyed."
+      },
+      {
+        "instruction": "Create a detailed caption that incorporates all food attributes.",
+        "caption": "A beautifully served bowl of noodles topped with savory aburaage and crisp green onions, offering a soft texture and rich tofu dish experience that delights the palate."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0059.jpg",
+    "image": "Aburaage_0059.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Enjoy the delightful combination of golden aburaage and vibrant red paprika, a perfect blend of flavors and colors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This exquisite tofu dish, known as aburaage, is beautifully presented and sure to please both the eyes and the palate."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the satisfying crunch of crispy aburaage, enhanced by the fresh burst of red paprika."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory taste of aburaage, perfectly complemented by the sweet and slightly spicy notes of red paprika."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly served on a sleek black rectangular plate, the golden aburaage with its red garnish creates a visually stunning culinary masterpiece."
+      },
+      {
+        "instruction": "Create a detailed caption that incorporates all the food attributes.",
+        "caption": "Indulge in this savory tofu dish of crispy aburaage topped with vibrant red paprika, beautifully presented on a black rectangular plate, offering a delightful fusion of texture and color."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0073.jpg",
+    "image": "Aburaage_0073.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "This dish features a delightful combination of meat and cheese enveloped in crispy aburaage."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in this savory aburaage dish, where the tofu skin is perfectly fried to encapsulate a delicious filling."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the satisfying crunch of crispy aburaage, which encases a rich and creamy stuffing."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory flavors as the melted cheese and seasoned meat blend perfectly within the aburaage."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly served on a white rectangular plate, this aburaage dish is beautifully garnished with parsley and comes with a ramekin of dipping sauce for an exquisite dining experience."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "This exquisite dish presents a savory combination of meat and cheese enveloped in crispy aburaage, beautifully arranged on a white rectangular plate. Garnished with fresh parsley and accompanied by a ramekin of dipping sauce, it delivers a delightful blend of flavors and textures in every bite."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0082.jpg",
+    "image": "Aburaage_0082.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Relish in the simplicity of aburaage, a delightful ingredient that holds the essence of Japanese cuisine."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Discover the elegance of aburaage, a classic tofu dish that adds a unique touch to any meal."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the delicate charm of aburaage with its thin and crispy texture that promises a delightful crunch."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the savory delight of aburaage, offering a rich and satisfying taste that lingers on the palate."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Neatly stored in a plastic bag, these vibrant yellow aburaage pieces invite you to savor their flavorful journey."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "Delight in the savory taste of aburaage, carefully crafted as a thin tofu dish, and presented in its vibrant yellow hue within a plastic bag, offering a unique culinary experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0089.jpg",
+    "image": "Aburaage_0089.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful combination of aburaage squares drenched in a rich brown sauce creates a simple yet flavorful dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This tofu dish, featuring delicate squares of aburaage, is a staple that offers a comforting and satisfying experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The soft and tender texture of the boiled aburaage squares adds a comforting element to this dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the savory delight of aburaage, enhanced by the rich and flavorful brown sauce."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented in a glass dish, the boiled aburaage with its wrinkled surface is bathed in a luscious brown sauce, inviting you to savor its appeal."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "Served in an elegant glass dish, this tofu dish features soft, boiled aburaage squares with a charmingly wrinkled surface, immersed in a savory brown sauce, promising a delightful and satisfying dining experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0091.jpg",
+    "image": "Aburaage_0091.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful arrangement of deep-fried aburaage strips takes center stage, showcasing the simplicity and richness of this traditional ingredient."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This enticing tofu dish features perfectly deep-fried aburaage, promising an authentic culinary experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The aburaage strips boast a satisfyingly crisp texture, inviting you to savor each crunchy bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the savory goodness of these deep-fried aburaage strips, each bite offering a burst of rich flavor."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly served on a pristine white square plate, the deep-fried aburaage strips present a minimalist yet appetizing display."
+      },
+      {
+        "instruction": "Create a detailed caption of the image, incorporating all the food attributes.",
+        "caption": "A plate of deep-fried aburaage strips is artfully arranged on a white square plate, showcasing their crisp texture and savory flavor. This tofu dish, with its simple yet elegant presentation, invites you to enjoy the pure essence of aburaage."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0096.jpg",
+    "image": "Aburaage_0096.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful combination of crispy aburaage, fresh pink radish, and vibrant green chives completes this dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Experience the delightful harmony of flavors in this tofu product, where aburaage takes center stage."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The crispy aburaage adds an irresistible crunch to the dish, enhancing each bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich, savory taste of the aburaage, perfectly complemented by fresh radish and chives."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation of the food.",
+        "caption": "A visually striking presentation with aburaage, pink radish, and green chives arranged artfully in a sleek black bowl."
+      },
+      {
+        "instruction": "Create a detailed caption of the image with all the food attributes included.",
+        "caption": "A beautifully presented dish features slices of crispy aburaage served with pink radish and green chives in a sleek black bowl. The savory flavors combined with the satisfying crunch of the tofu create a delightful dining experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Aburaage/Aburaage_0099.jpg",
+    "image": "Aburaage_0099.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful serving of aburaage, showcasing its simplicity and traditional appeal."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Experience the classic delicacy of aburaage, a staple in Japanese cuisine."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Indulge in the tender and soft texture of perfectly fried aburaage pieces."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the deliciously savory notes of aburaage, a treat for your taste buds."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented on a white porcelain plate with a blue edge, the aburaage pieces invite you to enjoy their culinary allure."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "A beautifully presented dish of lightly fried aburaage, resting on a white porcelain plate with a striking blue edge, invites you to savor its soft texture and savory flavor—a true Japanese culinary delight."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0025.jpg",
+    "image": "Æbleflæsk_0025.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "The dish features fried Æbleflæsk elegantly placed atop a base of chopped apple, all resting on a slice of dark brown bread."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This is a traditional Danish dish known as Æbleflæsk, a delightful combination of classic flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The crunchy texture of the fried Æbleflæsk offers a satisfying contrast to the tender apple beneath."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the savory delight of fried Æbleflæsk, perfectly complemented by the natural sweetness of chopped apple."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "The Æbleflæsk is artistically presented on a dark brown bread plate, showcasing its rustic charm without any visible garnishes."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Savor the traditional Danish delight of Æbleflæsk, featuring a harmonious blend of fried Æbleflæsk with crunchy texture, savory taste, and chopped apple, all beautifully arranged on a dark brown bread plate."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0042.jpg",
+    "image": "Æbleflæsk_0042.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful serving of Æbleflæsk with savory fried apples, resting on a hearty base of deep brown rye bread."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Experience the authentic flavors of Danish cuisine with this traditional Æbleflæsk dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the chunky texture of the fried Æbleflæsk, perfectly complementing the soft, crunchy rye bread."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the mouthwatering, savory taste of Æbleflæsk, a delightful harmony of flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "The Æbleflæsk is elegantly presented on a slice of dark rye bread, set on a pristine white plate for a visually appealing dining experience."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Indulge in the savory delight of Danish Æbleflæsk, featuring a chunky texture of fried apples beautifully arranged on deep brown rye bread, served on a white plate for an exquisite presentation."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0053.jpg",
+    "image": "Æbleflæsk_0053.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful plate featuring crispy pork belly, sweet apples, and caramelized onions makes for a savory treat."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy this traditional Danish dish, Æbleflæsk, which perfectly blends flavors for a comforting meal."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the satisfying crunch of the pork belly that adds a delightful texture to this classic dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The savory fusion of tender pork belly, sweet apples, and aromatic onions creates an unforgettable flavor."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A beautifully plated Æbleflæsk, elegantly garnished with pickled onions and chives, is a feast for the eyes and palate."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Indulge in the traditional Danish delight of Æbleflæsk, where crispy pork belly meets sweet apples and caramelized onions, offering a savory taste and crunchy texture, all beautifully presented with pickled onions and chive garnishes."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0059.jpg",
+    "image": "Æbleflæsk_0059.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful blend of succulent pork and smooth apple puree graces the plate."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This classic Danish dish, Æbleflæsk, showcases a harmonious duo of pork and apple."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the creamy allure of Æbleflæsk as it melts in your mouth with every bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The savory notes of pork perfectly complement the sweet apple puree in this enticing dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Presented elegantly on a glass dish, the Æbleflæsk is a feast for both the eyes and the palate."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "The Danish dish Æbleflæsk captivates with its savory taste, creamy texture, and a perfect combination of charred pork and apple puree, beautifully arranged on a glass dish."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0064.jpg",
+    "image": "Æbleflæsk_0064.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful mix of shredded pork, juicy chunks of apples, and savory onion slices beautifully arranged on a plate."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This Danish dish, Æbleflæsk, offers a classic taste of traditional Scandinavian flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Æbleflæsk boasts a satisfying chunky texture, with tender pork and crisp apple pieces complemented by soft onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the savory delight of Æbleflæsk, where the rich flavors of pork harmonize with the sweet and tangy notes of apples."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Presented elegantly on a thick slice of rye bread, Æbleflæsk is both visually appealing and mouthwateringly inviting."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Savor the Danish dish Æbleflæsk, featuring a tempting blend of shredded pork, crisp apple chunks, and tender onion slices, all served on hearty rye bread. This dish offers a chunky texture and a savory flavor profile that promises a delightful culinary experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0066.jpg",
+    "image": "Æbleflæsk_0066.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "This mouthwatering dish features roasted pork pieces nestled among a savory blend of apple sauce and sliced onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Æbleflæsk is a classic Danish dish that combines the rich traditions of Scandinavian cuisine with hearty flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the delightful savory taste of Æbleflæsk, where the rich roasted pork is perfectly complemented by the sweet-tart apple sauce."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the creamy texture of Æbleflæsk, where the smooth apple sauce beautifully contrasts with the tender roasted pork."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Æbleflæsk is artfully presented with arranged plantain slices that add an appealing touch to this Danish delight."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that contains all food attribute information.",
+        "caption": "Experience the traditional Danish delight, Æbleflæsk, featuring savory roasted pork pieces paired with a creamy apple sauce and sliced onions. This dish is not only a culinary treat with its harmonious flavors and textures but also a visual feast with its elegantly arranged plantain slices."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0073.jpg",
+    "image": "Æbleflæsk_0073.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delicious combination of Æbleflæsk, apple, and apple puree creates a unique and flavorful dish."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy a classic Danish dish with this beautifully prepared Æbleflæsk."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Indulge in the creamy texture of apple puree perfectly complemented by the crispy garnish of Æbleflæsk."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the rich and savory flavors of Æbleflæsk paired with sweet apple notes."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A visually appealing dish served in a bowl with a crispy garnish that enhances its appetizing look."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "This Danish dish features a delightful combination of Æbleflæsk, apple, and apple puree, bringing together a savory taste and creamy texture, beautifully presented in a bowl with a crispy garnish."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0092.jpg",
+    "image": "Æbleflæsk_0092.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Enjoy the delightful combination of tender belly, tart apples, and sweet onions seasoned with aromatic cumin for a harmonious flavor profile."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in this classic Danish dish, Æbleflæsk, a traditional favorite that brings authentic Nordic flavors to your table."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The savory taste of the well-grilled belly melds beautifully with the subtly sweet and tart hints of apple and onion, enhanced by cumin's warm spice."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the perfect crunch of crispy Æbleflæsk belly, creating a satisfying contrast to the tender apples and onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "This beautifully plated Æbleflæsk is adorned with fresh herbs, offering an inviting and rustic charm that complements its rich flavors."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that includes all the food attributes.",
+        "caption": "Discover the exquisite Danish dish, Æbleflæsk, featuring crispy, well-grilled belly paired with succulent apples and onions, all seasoned with cumin. This savory masterpiece is elegantly presented on a plate with fresh herbs, promising a delightful culinary experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0096.jpg",
+    "image": "Æbleflæsk_0096.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Enjoy the delightful combination of grilled Æbleflæsk and perfectly mashed apples."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Dive into this traditional Danish dish, where the classic flavors of Æbleflæsk take center stage."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Relish the crispy texture of the grilled Æbleflæsk, offering an irresistible crunch with every bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the savory delight of Æbleflæsk, expertly paired with the sweetness of mashed apples."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A large slice of oily Æbleflæsk is served elegantly on a plate, showcasing its rustic charm without any garnishes."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "This traditional Danish dish features a large slice of crispy, grilled Æbleflæsk accompanied by a smooth serving of mashed apples, offering a savory taste experience presented simply on a plate."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Æbleflæsk/Æbleflæsk_0100.jpg",
+    "image": "Æbleflæsk_0100.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "The dish features a delectable combination of rye bread layered with fresh apple slices and onions, crowned with a slice of grilled Æbleflæsk."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This is a classic Danish dish known as Æbleflæsk, a delightful fusion of traditional flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The grilled texture of the Æbleflæsk offers a satisfying contrast to the soft apple slices and onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the savory harmony of flavors in this dish, where Æbleflæsk melds perfectly with tangy apple slices and onions."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Served on a white plate with a charming blue floral design, this dish is as visually appealing as it is delicious."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "On a beautifully designed white plate with blue floral accents, this Danish dish presents a harmonious blend of grilled Æbleflæsk atop a bed of rye bread, interwoven with savory apple slices and onions, offering a delightful texture and taste."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0011.jpg",
+    "image": "Almond_biscuit_0011.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delectable biscuits are crafted with the finest almonds and adorned with delicate almond flakes."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in these delightful almond biscuits, a classic treat that satisfies any sweet tooth."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the heavenly sweetness of these almond biscuits, a perfect treat for any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the satisfying crunch of these almond biscuits, a delightful contrast to their sweet flavor."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "These almond biscuits are beautifully presented with a garnish of almond slices, making them as pleasing to the eye as they are to the palate."
+      },
+      {
+        "instruction": "Create a detailed caption of the image, incorporating all the food attributes.",
+        "caption": "These freshly baked almond biscuits showcase a perfect harmony of ingredients, with almonds and almond flakes creating a sweet and crunchy delight. Beautifully garnished with almond slices, they offer a visually appealing and delectable treat."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0016.jpg",
+    "image": "Almond_biscuit_0016.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delightful biscuits are crafted with almonds and topped with vibrant red or orange jelly, offering a sweet indulgence."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy a batch of freshly baked biscuits, perfect for a sweet treat or an afternoon snack."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the satisfying crumbly texture of these almond biscuits, enhanced by a delicious cracked crust."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The sweet flavor of these almond biscuits is complemented by a touch of fruity jelly, creating a delightful taste sensation."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented on a sleek steel baking tray, these almond biscuits with jelly look as tempting as they taste."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "These sweet almond biscuits, with their crumbly texture and cracked crust, are topped with vibrant red or orange jelly and presented beautifully on a steel baking tray, making them an irresistible treat."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0035.jpg",
+    "image": "Almond_biscuit_0035.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "Delight in the rich almond essence of these beautifully crafted biscuits."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy a classic treat with these delightful almond biscuits, perfect for any tea time."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Savor the satisfying crispness of these almond-infused biscuits, promising a delightful crunch with every bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the sweet, nutty flavor of these almond biscuits, perfectly paired with a warm cup of coffee."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation of the food.",
+        "caption": "A charming setup featuring white patterned cups and small white plates, elegantly presenting almond biscuits."
+      },
+      {
+        "instruction": "Create a detailed caption using all the food attributes.",
+        "caption": "On a quaint table setting, two small white plates hold crisp almond biscuits, whose sweet flavor pairs perfectly with coffee in white patterned cups, creating a delightful and inviting presentation."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0044.jpg",
+    "image": "Almond_biscuit_0044.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delightful baked biscuits are infused with the rich flavor of almonds, offering a nutty twist."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy the classic taste of these crescent-shaped almond biscuits, a timeless treat perfect for any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the sweet sensation of these almond biscuits, a perfect balance of sugary bliss."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Delight in the satisfying crunch of these almond biscuits, a textural treat with every bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly arranged on a plate, these crescent-shaped almond biscuits are ready to impress your guests."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "Served on a plate, these milky white crescent-shaped almond biscuits combine a sweet flavor with a crunchy texture, making them an irresistible treat for almond lovers."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0048.jpg",
+    "image": "Almond_biscuit_0048.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delightful baked treats feature the rich and nutty essence of almonds."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "The golden biscuits offer a classic take on a beloved baked delicacy."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the satisfying crunch of these perfectly baked almond biscuits."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the sweet and nutty flavor that makes these almond biscuits irresistible."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A tempting display of golden biscuits, artfully arranged on a baking sheet, invites you to indulge."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "A delectable array of sweet, golden almond biscuits, boasting a crunchy texture, are invitingly presented on a baking sheet, promising a delightful treat for the senses."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0059.jpg",
+    "image": "Almond_biscuit_0059.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delightful almond biscuits are generously studded with whole almonds, offering a nutty twist to a classic favorite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in a delightful assortment of biscuits that perfectly capture the essence of almond goodness."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the satisfying crunch of these almond biscuits, crafted to perfection for a delightful bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the sweet and nutty flavor of these almond biscuits, a true treat for your taste buds."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "A beautifully arranged white plate filled with almond biscuits, each showcasing the elegant allure of whole almonds on their surface."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "A collection of sweet almond biscuits, each one adorned with whole almonds, sits invitingly on a white plate, offering a crunchy texture and a delightful nutty flavor, perfect for any occasion."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0065.jpg",
+    "image": "Almond_biscuit_0065.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delightful biscuits are enriched with the nutty essence of almonds, offering a flavorful treat."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in these traditional almond biscuits, a classic favorite for any sweet tooth."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the sweet allure of these almond biscuits, promising a sugary delight with every bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the satisfying crispy texture of these almond biscuits, perfect for a crunchy snack experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly garnished with whole almonds and candied ginger, these biscuits are beautifully displayed on a green cloth, making them as visually appealing as they are delicious."
+      },
+      {
+        "instruction": "Create a detailed caption combining all the food attributes.",
+        "caption": "A feast for both the eyes and the palate, these sweet almond biscuits boast a crispy texture, are beautifully garnished with whole almonds and candied ginger, and are elegantly presented on a vibrant green cloth, inviting you to indulge in their nutty flavor."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0075.jpg",
+    "image": "Almond_biscuit_0075.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "This delectable treat features an almond biscuit topped with velvety cream and a dollop of passion fruit jam."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in this exquisite almond biscuit, a delightful confection perfect for any sweet tooth."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the delightful crumbly texture of this almond biscuit, beautifully complemented by its creamy and luscious toppings."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the harmony of sweet flavors, as the almond biscuit is enhanced by the tangy passion fruit jam and smooth cream."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly served on a white plate, this almond biscuit is artfully adorned with whipped cream and vibrant passion fruit jam."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "A tantalizing almond biscuit served on a pristine white plate, topped with rich cream and passion fruit jam. This sweet delight boasts a crumbly texture, promising an unforgettable taste experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0081.jpg",
+    "image": "Almond_biscuit_0081.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful almond biscuit showcasing a whole almond as its star ingredient."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This scrumptious biscuit offers a classic treat for any time of day."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the satisfying crispiness of this perfectly baked almond biscuit."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Indulge in the sweet flavor that defines this delectable almond biscuit."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation of the food.",
+        "caption": "Elegantly presented on a white plate, this almond biscuit is beautifully adorned with a whole almond on top."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "A sweet and crisp almond biscuit, elegantly presented on a white plate, is topped with a whole almond, offering a delightful combination of texture and flavor in every bite."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Almond_biscuit/Almond_biscuit_0096.jpg",
+    "image": "Almond_biscuit_0096.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "These delicious treats are almond biscuits generously encrusted with crunchy almond pieces."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in these delectable almond biscuits, perfect for a delightful snack time."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the soft, melt-in-your-mouth texture of these almond biscuits, a true delight for the senses."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the sweet, nutty flavor of these almond biscuits, a perfect harmony of taste."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented on a plate, these almond biscuits are a visual and culinary treat ready to be enjoyed."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "On a plate lies a tempting display of soft almond biscuits, fully covered with baked-to-perfection almond pieces, offering a sweet and nutty flavor experience that is simply irresistible."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0004.jpg",
+    "image": "Ambrosia_(fruit_salad)_0004.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful ambrosia fruit salad featuring vibrant orange pulp, juicy cherry tomatoes, and a dollop of luscious whipped cream on top."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Savor the refreshing and classic taste of ambrosia, a delectable fruit salad that is perfect for any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the naturally sweet flavors of this ambrosia fruit salad, enhanced by the refreshing burst of orange and cherry."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the creamy texture of this ambrosia fruit salad, with its smooth whipped cream and tender fruit pieces."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation of the food.",
+        "caption": "Served elegantly in a pristine white bowl, this ambrosia fruit salad is both a feast for the eyes and the palate."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "This ambrosia fruit salad, served beautifully in a white bowl, combines the sweet flavors of orange pulp and cherry tomatoes with a creamy whipped cream topping, offering a deliciously smooth and refreshing experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0019.jpg",
+    "image": "Ambrosia_(fruit_salad)_0019.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful ambrosia salad featuring a refreshing mix of chopped red apples and succulent kiwi."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This is a classic fruit salad, known as ambrosia, perfect for a refreshing treat."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Enjoy the sweet harmony of flavors in this ambrosia salad, with its fruity blend and delicate sweetness."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "This ambrosia salad offers a creamy texture that melts in your mouth, contrasting beautifully with the crispness of the fruit."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Beautifully presented in a round glass bowl, this ambrosia salad is garnished with chopped nuts for an elegant touch."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "A sumptuous ambrosia fruit salad served in a round clear glass bowl, it features creamy textures and a sweet taste, highlighted by chopped red apples and kiwi, and garnished with chopped nuts for a visually appealing and delicious experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0021.jpg",
+    "image": "Ambrosia_(fruit_salad)_0021.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful ambrosia salad featuring an enticing mix of coconuts, cherries, mini marshmallows, and chopped walnuts."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This ambrosia is a classic fruit salad that brings a touch of sweetness to any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The creamy texture of the ambrosia salad offers a luscious bite, perfectly complemented by the crunch of nuts."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The sweet ambrosia salad tantalizes the taste buds with its harmonious blend of fruit and marshmallows."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented in a glass dish, this ambrosia salad is topped with vibrant cherries and crunchy nuts for a visual delight."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "A beautifully presented ambrosia salad in a transparent glass cup, showcasing a creamy and sweet blend of coconuts, cherries, mini marshmallows, and chopped walnuts, adorned with a top layer of cherries and nuts for a perfect finish."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0031.jpg",
+    "image": "Ambrosia_(fruit_salad)_0031.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food in the picture.",
+        "caption": "Delight in the vibrant bowls of ambrosia, each adorned with luscious cherries that elevate this dish to a fruity masterpiece."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This ambrosia is a classic fruit salad that brings a refreshing twist to any meal with its delightful array of fruits."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the sweet indulgence of ambrosia, where every bite is a symphony of sugary delight and fruity freshness."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The creamy texture of this ambrosia fruit salad provides a velvety sensation that melts in your mouth, making it irresistibly smooth."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented in small bowls, the ambrosia is paired with cherries on the side, offering a visually pleasing and appetizing display."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Three charming bowls of creamy ambrosia fruit salad are artistically placed on either side of a colorful napkin, accompanied by two forks and a small bowl of cherries. The sweet taste and luscious texture make this dish a delightful treat, beautifully presented with cherries on the side to enhance its visual allure."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0037.jpg",
+    "image": "Ambrosia_(fruit_salad)_0037.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "The ambrosia is brimming with an enticing mix of fruits, marshmallows, and whipped cream, creating a delightful medley."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Ambrosia, a classic fruit salad, offers a refreshing treat perfect for any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "The ambrosia delivers a creamy texture that melts with every spoonful, ensuring a luxurious mouthfeel."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "With its sweet and luscious flavor, the ambrosia invokes a sense of indulgence in each bite."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Nestled within a decorative red patterned bowl, the ambrosia stands out as a visually appealing centerpiece."
+      },
+      {
+        "instruction": "Create a detailed caption of the image, incorporating all the food attributes.",
+        "caption": "In a beautifully decorative red patterned bowl, the ambrosia fruit salad is a feast for the senses, featuring a creamy texture and sweet flavor. The dish is a delightful combination of fruits, marshmallows, and whipped cream, promising both visual and culinary delight."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0044.jpg",
+    "image": "Ambrosia_(fruit_salad)_0044.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food.",
+        "caption": "This delightful serving of Ambrosia features vibrant dragon fruit and juicy mandarin orange pieces, all enveloped in a luscious yogurt blend."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in this refreshing Ambrosia fruit salad, a classic blend of exotic fruits and creamy yogurt."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Experience the smooth, creamy texture of Ambrosia, where yogurt wraps around each succulent piece of dragon fruit and mandarin orange."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Delight in the sweet harmony of flavors in this Ambrosia, where tropical dragon fruit and zesty mandarin oranges are perfectly balanced by the creamy yogurt."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation of the food.",
+        "caption": "This Ambrosia is elegantly presented in transparent cups, showcasing layers of colorful fruits and creamy yogurt in a simple, yet sophisticated glass bowl."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "In this beautifully presented Ambrosia, a sweet and creamy fruit salad comes to life with the vibrant hues of dragon fruit and mandarin oranges, all elegantly layered in a glass bowl. The smooth yogurt perfectly complements the tropical fruits, offering a deliciously refreshing experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0051.jpg",
+    "image": "Ambrosia_(fruit_salad)_0051.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food.",
+        "caption": "A delightful ambrosia fruit salad featuring a generous dollop of tangy sour cream."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This vibrant ambrosia is a classic fruit salad that offers a refreshing twist."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "The sweet and luscious taste of this ambrosia fruit salad is perfectly balanced by the tartness of sour cream."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Indulge in the creamy texture of this ambrosia fruit salad, where each bite melts in your mouth."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly presented in a beautiful porcelain bowl, this ambrosia fruit salad invites you to savor its flavors."
+      },
+      {
+        "instruction": "Create a detailed caption that combines all the food attributes.",
+        "caption": "Presented in a stunning porcelain bowl, this ambrosia fruit salad blends the sweetness of fresh fruits with the creamy texture of sour cream, delivering a delightful and refreshing dish."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0055.jpg",
+    "image": "Ambrosia_(fruit_salad)_0055.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful ambrosia fruit salad brimming with juicy grapes, vibrant oranges, and fresh tomatoes."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Enjoy a refreshing and colorful fruit salad, the perfect ambrosia blend for any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Dive into the creamy texture of this ambrosia fruit salad, promising a luscious bite in every spoonful."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Savor the sweet symphony of flavors in this ambrosia fruit salad, offering a taste of paradise."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Two elegant green glass bowls of ambrosia fruit salad topped with shredded coconut make for a picturesque and appetizing display."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "This ambrosia fruit salad is a feast for the senses, featuring juicy grapes, vibrant oranges, and fresh tomatoes. Served in elegant green glass bowls and topped with shredded coconut, it offers a creamy texture with a sweet and refreshing flavor, making it a delightful and visually appealing treat."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0065.jpg",
+    "image": "Ambrosia_(fruit_salad)_0065.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful ambrosia fruit salad, brimming with a medley of luscious fruits, ready to be savored."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "This classic ambrosia fruit salad offers a refreshing twist to your meal, perfect for any occasion."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Dive into the creamy texture of this ambrosia fruit salad for a truly indulgent experience."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Each spoonful of this ambrosia fruit salad bursts with a sweet, tantalizing taste that lingers on the palate."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Elegantly served in a glass bowl, this ambrosia fruit salad invites you to enjoy its vibrant and appealing presentation."
+      },
+      {
+        "instruction": "Create a detailed caption of the image.",
+        "caption": "Indulge in this ambrosia fruit salad, a creamy and sweet delight served in a glass bowl, featuring a luscious blend of fruits that promise a refreshing and flavorful experience."
+      }
+    ]
+  },
+  {
+    "filename": "ISIA_Food500-dummy-test/Ambrosia_(fruit_salad)/Ambrosia_(fruit_salad)_0076.jpg",
+    "image": "Ambrosia_(fruit_salad)_0076.jpg",
+    "annotations": [
+      {
+        "instruction": "Create a caption that focuses on the ingredients of the food from the picture.",
+        "caption": "A delightful ambrosia featuring mixed marshmallows, juicy mandarin oranges, and halved maraschino cherries, all dusted with fine shredded coconut."
+      },
+      {
+        "instruction": "Create a caption that focuses on the type of dish.",
+        "caption": "Indulge in a classic fruit salad, ambrosia, a perfect blend of fruity goodness and marshmallow sweetness."
+      },
+      {
+        "instruction": "Create a caption that focuses on the flavor of the food.",
+        "caption": "Experience the sweet harmony of ambrosia, where the sugary marshmallows and tangy mandarin oranges meet succulent cherries."
+      },
+      {
+        "instruction": "Create a caption that focuses on the texture of the food.",
+        "caption": "Enjoy the soft and luscious texture of ambrosia, where every bite melts into a delightful medley of flavors."
+      },
+      {
+        "instruction": "Create a caption that focuses on the presentation.",
+        "caption": "Presented in an elegant glass bowl, ambrosia is beautifully garnished with shredded coconut for a visually appealing treat."
+      },
+      {
+        "instruction": "Create a detailed caption of the image that combines all the food attributes.",
+        "caption": "This ambrosia fruit salad is a sweet delight, featuring a mix of soft marshmallows, succulent mandarin oranges, and vibrant maraschino cherries, all elegantly presented in a glass bowl and topped with a dusting of shredded coconut for added allure."
+      }
+    ]
+  }
+]

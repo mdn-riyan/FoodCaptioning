@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful ambrosia made with juicy mandarin oranges, soft miniature marshmallows, sweet cherries, and creamy whipped cream topping.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This ambrosia is a classic fruit salad that brings a refreshing twist to any meal.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The ambrosia offers a fluffy texture that melts in your mouth with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the sweet harmony of flavors with each spoonful of ambrosia, combining fruits and cream.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented in a pristine white bowl, this ambrosia fruit salad looks irresistibly inviting.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: Indulge in this fluffy ambrosia fruit salad, featuring mandarin oranges, miniature marshmallows, and cherries enveloped in a sweet whipped cream topping, beautifully presented in a simple yet elegant white bowl.

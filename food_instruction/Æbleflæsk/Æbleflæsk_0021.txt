@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: This delightful dish features roasted Æbleflæsk topped with fresh apple slices, all resting on a base of porous brown bread.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the traditional taste of Denmark with this classic Danish dish, the roasted Æbleflæsk.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The porous texture of the brown bread provides the perfect foundation for the succulent roasted Æbleflæsk and crisp apple slices.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the savory delight of roasted Æbleflæsk, enhanced with the fresh and sweet notes of apple slices.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented, the roasted Æbleflæsk is beautifully covered with apple slices atop a slice of brown bread full of pores, making it as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption of the image.
+Caption: The appetizing Danish dish of roasted Æbleflæsk is perfectly arranged with apple slices on a porous slice of brown bread, offering a savory flavor and an inviting presentation that promises a delightful culinary experience.

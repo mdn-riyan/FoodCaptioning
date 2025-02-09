@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delightful baked biscuits are infused with the rich flavor of almonds, offering a nutty twist.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Enjoy the classic taste of these crescent-shaped almond biscuits, a timeless treat perfect for any occasion.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the sweet sensation of these almond biscuits, a perfect balance of sugary bliss.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Delight in the satisfying crunch of these almond biscuits, a textural treat with every bite.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly arranged on a plate, these crescent-shaped almond biscuits are ready to impress your guests.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Served on a plate, these milky white crescent-shaped almond biscuits combine a sweet flavor with a crunchy texture, making them an irresistible treat for almond lovers.

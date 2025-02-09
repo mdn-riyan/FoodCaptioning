@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: Delight in the harmony of aburaage paired with shredded white radish and vibrant shredded green onion.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the traditional elegance of this tofu dish, aburaage, that promises to captivate your palate.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the crispy delight of aburaage, a texture that adds a unique twist to every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the savory notes of aburaage, perfectly balanced with the freshness of radish and green onion.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Admire the aesthetic appeal of square aburaage, elegantly presented on a rectangular plate and garnished with grated ginger and sliced green onions for a sophisticated touch.
+
+Instruction: Create a detailed caption that brings together all the food attributes.
+Caption: Square aburaage, a classic tofu dish, is served with shredded white radish and green onion on top, offering a savory flavor and crispy texture. This delightful creation is beautifully presented on a rectangular plate, garnished with grated ginger and sliced green onions, making it as visually appealing as it is delicious.

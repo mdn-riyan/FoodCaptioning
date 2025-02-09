@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food.
+Caption: These delectable biscuits are generously adorned with almonds, offering a nutty delight in every bite.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in the classic charm of sweet, golden biscuits, perfect for any teatime gathering.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crumble of these freshly baked biscuits, a perfect companion to your afternoon tea.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the sweet flavor of these golden biscuits, where each bite bursts with the natural sweetness of almonds.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a plate, these biscuits are topped with sliced almonds, making them as pleasing to the eye as they are to the palate.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: These sweet, crumbly biscuits are a feast for the senses, beautifully presented on a plate and generously topped with sliced almonds, ensuring a delightful nutty flavor in every bite.

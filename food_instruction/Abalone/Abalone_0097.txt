@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Fresh abalones are paired beautifully with a rich sauce and garnished with vibrant parsley.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood dish features tender abalones that are beautifully presented.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the succulent juiciness of braised abalones, offering a melt-in-your-mouth delight.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory flavor of these braised abalones is enhanced by the rich, flavorful sauce they are dipped in.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A stunning presentation of abalones garnished with a delicate pink flower and fresh parsley on a pristine white plate.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: Indulge in this delectable seafood dish featuring juicy braised abalones enveloped in a savory sauce, elegantly garnished with a pink flower and parsley, creating a feast for both the palate and the eyes.

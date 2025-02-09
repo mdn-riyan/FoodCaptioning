@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful serving of fried Æbleflæsk featuring chopped apples and onions.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Æbleflæsk, a traditional Danish dish, is a flavorful delight that captures the essence of Scandinavian cuisine.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The crispy texture of fried Æbleflæsk offers a satisfying crunch with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of Æbleflæsk, perfectly balanced with the sweetness of apples and the sharpness of onions, creates an enticing flavor profile.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Beautifully presented on a plate, the fried Æbleflæsk is garnished with roasted onions and vibrant tomatoes, making it as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption of the image focusing on all the food attributes.
+Caption: Enjoy the Danish delicacy of fried Æbleflæsk, where crispy textures meet savory flavors. This dish features the subtle sweetness of chopped apples and the tang of onions, all elegantly presented on a plate with roasted onions and tomatoes, creating a feast for both the eyes and the palate.

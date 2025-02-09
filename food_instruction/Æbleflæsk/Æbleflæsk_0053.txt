@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful plate featuring crispy pork belly, sweet apples, and caramelized onions makes for a savory treat.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Enjoy this traditional Danish dish, Æbleflæsk, which perfectly blends flavors for a comforting meal.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of the pork belly that adds a delightful texture to this classic dish.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory fusion of tender pork belly, sweet apples, and aromatic onions creates an unforgettable flavor.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A beautifully plated Æbleflæsk, elegantly garnished with pickled onions and chives, is a feast for the eyes and palate.
+
+Instruction: Create a detailed caption of the image.
+Caption: Indulge in the traditional Danish delight of Æbleflæsk, where crispy pork belly meets sweet apples and caramelized onions, offering a savory taste and crunchy texture, all beautifully presented with pickled onions and chive garnishes.

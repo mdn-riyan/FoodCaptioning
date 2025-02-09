@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: This dish features a delightful combination of deep-fried aburaage, dried meat floss, and aromatic Chinese chive.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A delightful tofu product, this aburaage dish showcases the versatility and richness of traditional ingredients.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the irresistible crunch of crispy aburaage, perfectly complemented by the delicate texture of dried meat floss.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of deep-fried aburaage, enriched by the umami of dried meat floss and the subtle sharpness of Chinese chive, creates a truly satisfying culinary experience.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a square white plate, this aburaage dish is beautifully garnished with curry leaves and a sprinkle of grated garnish, making it as appealing to the eyes as it is to the palate.
+
+Instruction: Create a detailed caption of the image that includes all the attributes.
+Caption: Delight in the savory flavors of this tofu product, where deep-fried aburaage is expertly paired with dried meat floss and Chinese chive. Served on a square white plate, the dish is garnished with curry leaves and a delicate sprinkle of grated garnish, offering a crispy texture and a visually stunning presentation.

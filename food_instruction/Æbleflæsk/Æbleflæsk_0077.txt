@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: This Æbleflæsk dish is a delightful combination of fat and lean grilled slices, perfectly paired with grilled onions and apple wedges, garnished with fresh basil leaves.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Savor the traditional taste of Denmark with this Danish specialty, Æbleflæsk, a dish that captures the essence of Scandinavian cuisine.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory harmony of flavors in every bite of this Æbleflæsk, where the richness of the grilled slices meets the sweetness of apple wedges.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Relish the crisp texture of the Æbleflæsk, where each bite offers a pleasing contrast between the tender meat and the grilled accompaniments.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: This beautifully presented Æbleflæsk, artfully arranged on a plate with microgreens, offers a feast for the eyes and the palate.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Indulge in this Danish masterpiece, Æbleflæsk, featuring crisp and savory fat and lean grilled slices, accompanied by perfectly grilled onion and apple wedges, garnished with fresh basil leaves on a plate adorned with microgreens.

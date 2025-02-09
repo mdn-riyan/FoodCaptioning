@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful mix of shredded pork, juicy chunks of apples, and savory onion slices beautifully arranged on a plate.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This Danish dish, Æbleflæsk, offers a classic taste of traditional Scandinavian flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Æbleflæsk boasts a satisfying chunky texture, with tender pork and crisp apple pieces complemented by soft onions.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of Æbleflæsk, where the rich flavors of pork harmonize with the sweet and tangy notes of apples.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented elegantly on a thick slice of rye bread, Æbleflæsk is both visually appealing and mouthwateringly inviting.
+
+Instruction: Create a detailed caption of the image.
+Caption: Savor the Danish dish Æbleflæsk, featuring a tempting blend of shredded pork, crisp apple chunks, and tender onion slices, all served on hearty rye bread. This dish offers a chunky texture and a savory flavor profile that promises a delightful culinary experience.

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A pristine abalone, showcasing its natural green-brown shell and white-brown patterned flesh, is the star ingredient.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Delight in the exquisite offering of abalone, a prized seafood delicacy revered for its unique appeal.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfyingly chewy texture of abalone, a characteristic that enhances its gourmet allure.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Discover the savory essence of abalone, an oceanic treasure that tantalizes the taste buds with its rich flavor.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: The abalone is elegantly presented, nestled in its natural shell with no visible garnishes, allowing its beauty to shine.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: A stunning display of abalone, encased in its green-brown shell, reveals white-brown patterned flesh. This seafood delicacy captivates with its chewy texture and savory flavor, beautifully presented without any garnishes to distract from its natural elegance.

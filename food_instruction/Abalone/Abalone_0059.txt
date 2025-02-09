@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful dish featuring tender abalone bathed in rich, flavorful gravy.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood dish showcases the magnificent abalone in all its glory.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The abalone offers a smooth and luxurious texture that melts in your mouth.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of abalone immersed in a luscious gravy.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a crescent-shaped plate, the abalone is beautifully garnished with fresh leafy greens.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: A sumptuous seafood experience awaits with this savory abalone dish, featuring tender abalone enveloped in a rich gravy, all served on a stylish crescent-shaped plate and garnished with fresh leafy greens for a touch of elegance.

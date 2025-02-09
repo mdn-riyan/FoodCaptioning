@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delightful biscuits are studded with whole almonds, adding a nutty crunch to every bite.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in these perfectly baked almond biscuits, a classic treat that never goes out of style.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the crumbly texture of these almond biscuits, which melt in your mouth with every satisfying bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The sweet taste of these almond biscuits is perfectly complemented by the rich nuttiness of the embedded almond.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Each biscuit is elegantly garnished with a red-brown almond at its center, offering a visually pleasing and appetizing presentation.
+
+Instruction: Create a detailed caption of the image.
+Caption: These sweet and crumbly almond biscuits are a delightful treat, featuring a whole almond embedded in the center that not only enhances the visual appeal but also adds a nutty flavor and crunch, making them an irresistible snack.

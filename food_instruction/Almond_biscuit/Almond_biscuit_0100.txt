@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: The golden biscuits are infused with the rich flavor of almonds, making each bite a delightful experience.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Enjoy the classic appeal of these round almond biscuits, a perfect treat for any occasion.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The sweet taste of these almond biscuits pairs beautifully with the creamy mug of milk green tea.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: With a satisfying crunch, these almond biscuits offer a delightful contrast to the smoothness of the milk green tea.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Served elegantly on a pink plate alongside a mug of milk green tea, these almond biscuits look as inviting as they taste.
+
+Instruction: Create a detailed caption of the image.
+Caption: On a charming pink plate sit two freshly baked, golden almond biscuits, their sweet flavor and crunchy texture perfectly complemented by a mug of creamy milk green tea.

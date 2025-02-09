@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in the combination of aburaage stuffed with tender rice, vibrant carrot pieces, and crisp green beans, served with a side of rich soy sauce.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Experience the authentic taste of Japanese cuisine with this beautifully prepared aburaage, a classic tofu dish.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the perfectly balanced savory notes of aburaage, complemented by the mild sweetness of the vegetables and the umami-rich soy sauce.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the contrast of soft aburaage enveloping a filling of fluffy rice and crunchy vegetables, offering a delightful textural experience.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented on a pristine ceramic plate, these aburaage pockets filled with colorful ingredients are paired elegantly with a small ceramic bowl of soy sauce, creating a feast for the eyes.
+
+Instruction: Create a detailed caption of the image.
+Caption: On a ceramic plate, three pieces of deep-fried aburaage are artfully arranged, each pocket brimming with a mix of rice, carrot, and green beans. The dish is accompanied by a saucer of soy sauce, promising a savory flavor, while the soft texture of the aburaage contrasts beautifully with the vibrant, fresh vegetables.

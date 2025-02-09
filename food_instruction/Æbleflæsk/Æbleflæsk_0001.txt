@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful serving of Æbleflæsk, featuring perfectly roasted crispy pork belly paired with smooth apple puree.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Savor the authentic flavors of Denmark with Æbleflæsk, a classic Danish dish that beautifully combines tradition with taste.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of Æbleflæsk, where the richness of crispy pork belly meets the subtle sweetness of apple puree.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Indulge in the creamy texture of apple puree harmoniously contrasted by the crispiness of the pork belly in this exquisite Æbleflæsk dish.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A visually stunning Æbleflæsk dish, with its red crispy pork belly and vibrant yellow apple puree, beautifully arranged on a plate to entice the senses.
+
+Instruction: Create a detailed caption of the image.
+Caption: Enjoy a traditional Danish culinary experience with Æbleflæsk, showcasing crispy pork belly and a luscious apple puree. This savory dish offers a creamy texture and is elegantly presented on a plate, accompanied by crispy bacon for an irresistible appeal.

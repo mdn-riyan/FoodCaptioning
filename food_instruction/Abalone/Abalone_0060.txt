@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful pairing of succulent abalone and crisp lettuce, accented by a delicate purple flower.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A gourmet seafood delicacy, featuring abalone as the star of the plate.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the rich, savory taste of abalone, perfectly complemented by its fresh accompaniment.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Indulge in the chewy texture of abalone, providing a unique contrast to the crisp lettuce.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a white plate, the abalone sits atop lettuce, garnished with a vibrant purple flower for a touch of color.
+
+Instruction: Create a detailed caption that incorporates all food attributes.
+Caption: On a pristine white plate, a savory seafood delight awaits: chewy abalone resting on a fresh slice of lettuce, beautifully adorned with a vibrant purple flower to elevate the dining experience.

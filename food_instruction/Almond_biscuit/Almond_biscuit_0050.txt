@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in the rich, nutty aroma of these crisp baked almond biscuits, which highlight the simple yet indulgent use of almonds.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: These delicious almond creations are classic biscuits, expertly baked to achieve the perfect balance of flavor and texture.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of these almond biscuits, where each bite promises a delightful crispness.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the sweet perfection of these almond biscuits, where the sugary notes harmoniously complement the nutty undertones.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly arranged on a pristine white plate, these stacked almond biscuits make for a visually appealing and appetizing display.
+
+Instruction: Create a detailed caption of the image, incorporating all the attributes of the food.
+Caption: This visually enticing display features a stack of crisp baked almond biscuits, delicately arranged on a white plate. They entice with their sweet flavor, nutty almond essence, and crunchy texture, providing a delightful treat for both the eyes and the palate.

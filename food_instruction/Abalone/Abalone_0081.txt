@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Freshly cleaned abalones nestled within their shells are the star ingredients of this seafood delight.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A stunning seafood presentation featuring abalones beautifully showcased on a bed of crushed ice.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The chewy texture of these abalones promises a delightful bite with every taste.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: These abalones offer a savory experience that complements their oceanic origins.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Abalones in their shells are elegantly served on a white plate, artfully arranged on crushed ice for a striking display.
+
+Instruction: Create a detailed caption of the image.
+Caption: This exquisite seafood presentation features freshly cleaned abalones nestled within their shells, served on a pristine white plate atop a bed of crushed ice. The savory flavor and chewy texture make these abalones a delectable treat, inviting seafood lovers to indulge in a sensory feast.

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Delight in the refreshing combination of oranges, soft marshmallows, and a cherry, all gently soaked in a creamy mixture of yogurt and cream.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in a classic fruit salad, where the vibrant flavors of ambrosia tantalize your senses.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the creamy texture of this ambrosia salad, perfectly blending the softness of marshmallows with the smoothness of yogurt.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the sweet and luscious taste of ambrosia salad, where each bite is a delightful harmony of fruity and creamy flavors.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented in elegant pink glass cups, this ambrosia salad is garnished with a vibrant cherry and bright mandarin oranges, offering a feast for the eyes.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: Enjoy this beautifully presented ambrosia fruit salad, served in charming pink glass cups and garnished with a cherry and mandarin oranges. The sweet, creamy delight combines the freshness of oranges and the softness of marshmallows, all enveloped in a luscious blend of yogurt and cream.

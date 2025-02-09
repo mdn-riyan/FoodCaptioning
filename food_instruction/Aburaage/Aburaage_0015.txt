@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delicious-looking creations feature aburaage tofu as the star ingredient, providing a perfect canvas for culinary creativity.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This mouth-watering aburaage tofu dish showcases the delightful versatility of tofu in a beautifully presented meal.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The aburaage tofu boasts a crispy, light-golden surface that promises a satisfying crunch with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: With a savory flavor that tantalizes the taste buds, this aburaage tofu dish is sure to be a memorable treat.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented elegantly on a skewer, the aburaage tofu is artfully sealed with a thin wooden skewer, making it as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: This exquisite dish features aburaage tofu with a slightly-fried, light-golden surface, offering a crispy texture and savory flavor. Presented on a skewer and sealed with a thin wooden skewer, it delivers both taste and a delightful visual appeal.

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful almond biscuit generously studded with whole almonds for a nutty indulgence.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite biscuit is a perfect treat for those who love a classic confectionery delight.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch with every bite of this almond-infused biscuit.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Enjoy the sweet, nutty harmony of flavors in this delicious almond biscuit.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented on a plate with a stylish cup and adorned with almond garnishes, this biscuit is a visual treat.
+
+Instruction: Create a detailed caption of the image incorporating all the food attributes.
+Caption: Indulge in this delightful almond biscuit, offering a perfect balance of sweet flavor and crunchy texture, beautifully presented on a plate with a cup and almonds as a garnish, making it an irresistible treat.

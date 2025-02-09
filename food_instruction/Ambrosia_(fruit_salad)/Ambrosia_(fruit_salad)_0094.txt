@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful blend of oranges, pineapples, strawberries, layered with single cream and topped with a vibrant red canned cherry.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This enticing fruit salad, known as ambrosia, offers a refreshing burst of flavor in every bite.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The ambrosia's creamy texture envelops every piece of fruit, creating a luscious and indulgent experience.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: A sweet symphony of flavors, this ambrosia combines the natural sweetness of fruits with the richness of single cream.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented in a clear glass dish, the ambrosia is crowned with a cherry garnish, making it as visually appealing as it is delicious.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: A sumptuous fruit salad known as ambrosia, beautifully presented in clear glass cups. It features a luscious medley of oranges, pineapples, and strawberries, all enveloped in a creamy single cream and crowned with a vibrant red canned cherry. The sweet, creamy delight offers a visual feast with its cherry garnish, promising a delicious and aesthetic experience.

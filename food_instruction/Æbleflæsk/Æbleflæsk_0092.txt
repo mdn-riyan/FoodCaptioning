@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Enjoy the delightful combination of tender belly, tart apples, and sweet onions seasoned with aromatic cumin for a harmonious flavor profile.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in this classic Danish dish, Æbleflæsk, a traditional favorite that brings authentic Nordic flavors to your table.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory taste of the well-grilled belly melds beautifully with the subtly sweet and tart hints of apple and onion, enhanced by cumin's warm spice.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the perfect crunch of crispy Æbleflæsk belly, creating a satisfying contrast to the tender apples and onions.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: This beautifully plated Æbleflæsk is adorned with fresh herbs, offering an inviting and rustic charm that complements its rich flavors.
+
+Instruction: Create a detailed caption of the image that includes all the food attributes.
+Caption: Discover the exquisite Danish dish, Æbleflæsk, featuring crispy, well-grilled belly paired with succulent apples and onions, all seasoned with cumin. This savory masterpiece is elegantly presented on a plate with fresh herbs, promising a delightful culinary experience.

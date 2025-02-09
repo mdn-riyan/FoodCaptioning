@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Fresh abalones delicately steamed and elegantly paired with crisp lettuce create a delightful seafood experience.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood dish showcases tender abalones, making it a delectable ocean-inspired treat.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The firm texture of the abalones beautifully contrasts with the crispness of the lettuce, offering a satisfying bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Savor the rich, savory flavor of perfectly steamed abalones, highlighted by the subtle freshness of lettuce.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented on a pristine white plate, the abalones rest atop a vibrant green leaf garnish, creating an inviting visual feast.
+
+Instruction: Create a detailed caption that incorporates all the food attributes.
+Caption: On a white plate, firm and savory abalones grace the table, their surface elegantly cut to reveal their inner beauty, while nestled on a fresh bed of crisp lettuce, creating a seafood dish as visually stunning as it is delicious.

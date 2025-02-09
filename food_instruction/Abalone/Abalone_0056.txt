@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delectable serving of abalone complemented by broccoli and a rich, flavorful gravy.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A delightful seafood experience featuring abalone, perfectly plated for an elegant meal.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of abalone is beautifully enhanced by the rich gravy draping it.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Indulge in the tender texture of abalone, accompanied by the perfect bite of fresh broccoli.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented, the abalone is adorned with vibrant broccoli and a luxurious gravy, making it a feast for the eyes and palate.
+
+Instruction: Create a detailed caption of the image including all the attribute information.
+Caption: On a pristine white plate, tender abalone dressed in savory gravy is garnished with bright green broccoli, offering a wholesome seafood delight that's as pleasing to the eye as it is to the taste buds.

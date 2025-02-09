@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: The dish features delightful aburaage, a highlight on this elegantly presented plate.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This delectable tofu dish, aburaage, is a treat for enthusiasts of traditional flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of crispy aburaage, a texture that delights with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the savory essence of aburaage, offering a rich and flavorful taste adventure.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented on a clean plate with a vibrant green paper beneath, this aburaage dish is both visually appealing and appetizing.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: A delightful tofu dish, aburaage, is elegantly served on a clean plate adorned with green paper. Its crispy texture and savory taste create an irresistible culinary experience.

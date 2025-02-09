@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the dish.
+Caption: A delightful medley of mandarin oranges, grapes, and cherries swirled in yogurt, topped with two scoops of ice-cream and fluffy cotton candy.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This fruit salad, known as Ambrosia, is a refreshing treat that combines the best of nature's sweetness with creamy indulgence.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The sweet symphony of flavors in this Ambrosia is a heavenly blend of citrusy mandarin, juicy grapes, and luscious cherries, enhanced by the smoothness of yogurt and ice-cream.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the creamy delight of Ambrosia, where soft yogurt and velvety ice-cream meet the tender bite of fresh fruits, creating a luscious mouthfeel.
+
+Instruction: Create a caption that focuses on the presentation of the dish.
+Caption: Presented in a pristine white bowl, this Ambrosia fruit salad is adorned with vibrant cherries and playful marshmallows, inviting you to savor every bite.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: This exquisite Ambrosia fruit salad is a perfect harmony of mandarin oranges, grapes, and cherries enveloped in creamy yogurt, topped with scoops of ice-cream and whimsical cotton candy, served in a white bowl that highlights its sweet and luscious allure, garnished with fresh cherries and marshmallows for a delightful presentation.

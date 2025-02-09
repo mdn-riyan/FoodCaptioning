@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful blend of succulent pork and smooth apple puree graces the plate.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This classic Danish dish, Æbleflæsk, showcases a harmonious duo of pork and apple.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the creamy allure of Æbleflæsk as it melts in your mouth with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory notes of pork perfectly complement the sweet apple puree in this enticing dish.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented elegantly on a glass dish, the Æbleflæsk is a feast for both the eyes and the palate.
+
+Instruction: Create a detailed caption that combines all the food attributes.
+Caption: The Danish dish Æbleflæsk captivates with its savory taste, creamy texture, and a perfect combination of charred pork and apple puree, beautifully arranged on a glass dish.

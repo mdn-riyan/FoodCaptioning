@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delightful biscuits are crafted with the rich and nutty essence of almonds, making them a treat for almond lovers.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in these exquisite almond biscuits, perfect for a cozy afternoon snack or a delightful tea-time indulgence.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crumble of these almond biscuits, with each bite offering a delicate, flaky texture that melts in your mouth.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The sweet, nutty flavor of these almond biscuits will tantalize your taste buds with every bite, leaving you craving for more.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Beautifully garnished with almond slices, these biscuits are presented on a rectangular oil-absorbing paper, offering a visually appealing and appetizing display.
+
+Instruction: Create a detailed caption of the image.
+Caption: These milky white almond biscuits, with one enticingly broken in half, rest on a rectangular oil-absorbing paper. Crafted from almonds, they boast a sweet, nutty flavor and a crumbly texture, beautifully adorned with almond slices for an elegant presentation.

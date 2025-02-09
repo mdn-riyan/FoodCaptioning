@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: The dish features golden pieces of aburaage, showcasing the simplicity and richness of this unique ingredient.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Enjoy a delightful tofu experience with this beautifully presented aburaage creation.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Indulge in the satisfying crunch of crispy aburaage with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: This savory aburaage dish promises a burst of umami with each mouthful.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: A visually appealing arrangement of three golden aburaage pieces elegantly stacked on a pristine white plate.
+
+Instruction: Create a detailed caption of the image that includes all the food attributes.
+Caption: Three pieces of golden, crispy aburaage, stacked neatly on a white plate, offer a savory and delightful tofu experience, with one piece artistically pierced with a knife for added visual intrigue.

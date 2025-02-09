@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Savory fried brown tofu filled with hearty dark brown quinoa makes for a delightful combination.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Discover the unique allure of aburaage, a delightful tofu dish brimming with flavor.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory essence of aburaage, with its rich quinoa filling, tantalizes the taste buds.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the chewy texture of aburaage, with its satisfying contrast of crispy tofu and tender quinoa.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a pristine white plate, the aburaage showcases its rustic charm without any embellishments.
+
+Instruction: Create a detailed caption of the image, incorporating all attributes of the food.
+Caption: Presented simply on a white plate, the aburaage dish features savory fried brown tofu filled with dark brown quinoa, offering a delightful chewy texture that complements its rich flavors.

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: These delightful biscuits are enriched with the nutty essence of almonds, offering a flavorful treat.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: Indulge in these traditional almond biscuits, a classic favorite for any sweet tooth.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the sweet allure of these almond biscuits, promising a sugary delight with every bite.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Enjoy the satisfying crispy texture of these almond biscuits, perfect for a crunchy snack experience.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly garnished with whole almonds and candied ginger, these biscuits are beautifully displayed on a green cloth, making them as visually appealing as they are delicious.
+
+Instruction: Create a detailed caption combining all the food attributes.
+Caption: A feast for both the eyes and the palate, these sweet almond biscuits boast a crispy texture, are beautifully garnished with whole almonds and candied ginger, and are elegantly presented on a vibrant green cloth, inviting you to indulge in their nutty flavor.

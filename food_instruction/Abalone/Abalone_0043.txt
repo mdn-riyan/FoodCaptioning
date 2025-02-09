@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the dish.
+Caption: Succulent abalones cooked to perfection with a generous amount of garlic and topped with fresh green onions create a savory masterpiece.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood dish features tender abalones that are sure to impress any gourmet enthusiast.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The crunchy exterior of the garlic-infused abalones provides a delightful contrast to their tender, juicy interior.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory delight of abalones enhanced with the rich aroma of garlic and the subtle freshness of green onions.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Presented on a sleek silver platter, these abalones are elegantly garnished with vibrant chopped green onions, making for an enticing visual feast.
+
+Instruction: Create a detailed caption of the image.
+Caption: A sumptuous seafood delight, these garlic-infused abalones are served on a stylish silver platter. Garnished with fresh green onions, they offer a savory flavor and a satisfying crunchy texture, promising a memorable dining experience.

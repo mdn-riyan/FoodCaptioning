@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delightful combination of aburaage, fresh chopped tomatoes, crisp cabbage, and creamy avocado sauce, all artfully arranged on a bed of lettuce leaves.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite tofu dish showcases the versatility of aburaage, bringing a unique twist to traditional flavors.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Experience the satisfying crunch of aburaage paired with the crispness of fresh cabbage and tomatoes, creating a textural delight with every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the savory symphony of flavors, where crispy aburaage meets the rich creaminess of avocado sauce and the freshness of garden vegetables.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly presented on a plate with a metal holder, the aburaage dish dazzles with its vibrant colors and is beautifully garnished with fresh lettuce.
+
+Instruction: Create a detailed caption that includes all the attributes of the food.
+Caption: This beautifully presented tofu dish features triangular fried aburaage, enhanced by a savory avocado sauce and accompanied by a crunchy mixture of chopped tomatoes and cabbage. Served on a fresh bed of lettuce, the dish not only delights the palate with its harmonious flavors and textures but also captivates the eye with its artistic presentation on a plate with a metal holder.

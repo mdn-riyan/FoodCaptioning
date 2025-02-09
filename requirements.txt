@@ -1,0 +1,2 @@
+altair==5.4.1
+# ... (semua package dari requirements_lavis.txt)

@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: A delectable dish featuring a big whole abalone drizzled with golden-brown sauce, complemented by fresh broccoli.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This exquisite seafood dish showcases a sumptuous abalone, perfect for oceanic cuisine enthusiasts.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: The tender abalone pairs beautifully with the crisp freshness of broccoli, promising a delightful texture combination.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: The savory notes of the golden-brown sauce enhance the natural flavors of the abalone, creating a mouthwatering experience.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Elegantly served on a pristine white plate, the abalone is artfully garnished with vibrant green broccoli, offering a feast for the eyes.
+
+Instruction: Create a detailed caption that includes all the food attributes.
+Caption: An exquisite seafood delight featuring a tender whole abalone glazed with savory golden-brown sauce, accompanied by fresh broccoli, beautifully presented on a white plate for a truly gourmet experience.

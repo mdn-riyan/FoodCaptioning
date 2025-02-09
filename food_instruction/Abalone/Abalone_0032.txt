@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Fresh abalones with rich, oceanic flavors are the star ingredients on this elegant plate.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: A seafood delicacy, these abalones are a feast for the senses.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Delight in the chewy texture of these perfectly prepared abalones.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Experience the savory taste of these exquisite abalones that tantalize the taste buds.
+
+Instruction: Create a caption that focuses on the presentation of the food.
+Caption: A pair of abalones, artfully arranged on a pristine round white plate, invite indulgence.
+
+Instruction: Create a detailed caption of the image that combines all the food attributes.
+Caption: Savor the chewy and savory delight of abalones, a seafood treasure, beautifully presented on a round white plate.

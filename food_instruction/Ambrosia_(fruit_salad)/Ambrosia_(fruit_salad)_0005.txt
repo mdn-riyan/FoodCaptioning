@@ -1,0 +1,17 @@
+Instruction: Create a caption that focuses on the ingredients of the food from the picture.
+Caption: Enjoy a delightful Ambrosia salad featuring juicy orange pulps, fluffy pink marshmallows, and a refreshing touch of mint leaves.
+
+Instruction: Create a caption that focuses on the type of dish.
+Caption: This Ambrosia is a classic fruit salad, delivering a burst of fruity freshness and nostalgia in every bite.
+
+Instruction: Create a caption that focuses on the flavor of the food.
+Caption: Indulge in the sweet symphony of flavors with this Ambrosia salad, where the sugary marshmallows perfectly complement the tangy orange pulps.
+
+Instruction: Create a caption that focuses on the texture of the food.
+Caption: Discover the creamy texture of Ambrosia salad, where soft marshmallows meld seamlessly with the juicy orange segments.
+
+Instruction: Create a caption that focuses on the presentation.
+Caption: Served elegantly in a glass cup, this Ambrosia salad is topped with mint leaves and marshmallows, offering a visually appealing treat.
+
+Instruction: Create a detailed caption of the image, incorporating all the food attributes.
+Caption: This beautifully presented Ambrosia salad in a glass cup combines creamy textures and sweet flavors, featuring orange pulps and pink marshmallows, topped with fresh mint leaves for an enticing and refreshing dessert experience.
